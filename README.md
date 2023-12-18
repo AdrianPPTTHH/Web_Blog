@@ -25,7 +25,7 @@ sudo iptables -A INPUT -p tcp --dport 8876 -j ACCEPT
 
 ## 安装MYSQL、mysql库（ mysql连接库 #include <mysql/mysql.h> )  
 sudo apt-get install mysql-server  
-sudo apt-get install libmysqlclient-dev  
+sudo apt-get install libmysqlclient-dev    
 sudo apt-get install default-libmysqlclient-dev  
 
 sqlconnRAII: 构造即初始化(注意是sql 而不是sql池)  
