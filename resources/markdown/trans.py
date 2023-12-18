@@ -3,8 +3,11 @@ import shutil
 import re
 
 # 输入文件路径和输出目录
-md_file_path = './二刷.md'
+md_file_path = './.md'
 output_dir = '../images/'
+
+# 当前图片的索引
+index = 87
 
 # 创建输出目录
 os.makedirs(output_dir, exist_ok=True)
@@ -21,6 +24,7 @@ matches = re.findall(pattern, content)
 
 # 复制图片到输出目录，并更新Markdown文件中的链接
 for i, image_path in enumerate(matches, start=1):
+    i += index
     # 生成新的文件名，假设是 jpg 格式
     new_filename = f"{i}.jpg"
     
