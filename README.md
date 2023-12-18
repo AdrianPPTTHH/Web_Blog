@@ -1,3 +1,10 @@
+# 效果
+
+
+
+
+# 安装与配置
+
 ## 打开端口（设置防火墙）
 
 sudo iptables -L
@@ -33,5 +40,8 @@ sudo apt-get install libhiredis-dev
 
 
 ## 安装cmark
-github:https://github.com/commonmark/cmark
--L "/cmark_path/lib"
+github:https://github.com/commonmark/cmark  
+链接：-L "/cmark_path/lib"
+
+
+# 压力测试

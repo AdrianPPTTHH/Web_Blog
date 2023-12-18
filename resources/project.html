@@ -36,7 +36,7 @@
                     <ul class="nav navbar-nav navbar-right">
                          <li><a class="smoothScroll" href="/">首页</a></li>
                          <li><a class="smoothScroll" href="/markdown">笔记</a></li>
-                         <li><a class="smoothScroll" href="/project">项目</a></li>
+                         <li><a class="smoothScroll" href="/project">代码</a></li>
                     </ul>
                </div>
           </div>
@@ -45,20 +45,25 @@
      <section id="home" style="height: 20%;">
           <div class="container">
                <div class="row">
+
                     <div class="col-md-offset-1 col-md-2 col-sm-3">
                          <img src="images/avatar.jpg" class="wow fadeInUp img-responsive img-circle"
-                              data-wow-delay="0.1s" alt="about image">
+                              data-wow-delay="0.2s" alt="about image">
                     </div>
+
+                    <div class="col-md-8 col-sm-8">
+                         <h1 class="wow fadeInUp" data-wow-delay="0.6s">目录</h1>
+                    </div>
+
                </div>
           </div>
+          
      </section>
 
-
-     <!-- HOME SECTION -->
-     <section id="project">
+     <section id="directory">
           <div class="container">
-               <div class="row">
-               </div>
+               <!-- 目录内容容器 -->
+               <div id="directory-content" class="row"></div>
           </div>
      </section>
 
@@ -75,3 +80,42 @@
 </body>
 
 </html>
+
+<script>
+     // 目录内容数据
+     var directoryData = [
+          { title: 'Epoll_http', url: '/code/Epoll_http.md', description: 'epoll实现的http_server小demo' },
+          { title: 'Epoll_反应堆', url: '/code/Epoll_反应堆.md', description: 'epoll反应堆实现的小demo' },
+          { title: 'Poll和Select', url: '/code/Poll和Select.md', description: 'Poll和Select的实现Demo' },
+          // 添加更多目录项...
+     ];
+
+     // 将目录内容动态加载到页面中
+     var directoryContainer = document.getElementById('directory-content');
+
+     directoryData.forEach(function(item) {
+          var colDiv = document.createElement('div');
+          colDiv.className = 'col-md-4 col-sm-4';
+
+          var thumbnailDiv = document.createElement('div');
+          thumbnailDiv.className = 'thumbnail';
+
+          var title = document.createElement('h3');
+          title.textContent = item.title;
+
+          var description = document.createElement('p');
+          description.textContent = item.description;
+
+          var link = document.createElement('a');
+          link.href = item.url;
+          link.textContent = '查看详情';
+
+          thumbnailDiv.appendChild(title);
+          thumbnailDiv.appendChild(description);
+          thumbnailDiv.appendChild(link);
+
+          colDiv.appendChild(thumbnailDiv);
+
+          directoryContainer.appendChild(colDiv);
+     });
+</script>

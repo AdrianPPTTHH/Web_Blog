@@ -1,13 +1,27 @@
-
 // 从 Cookie 中获取用户名
 var cookie_value = document.cookie;
 
-//因为有可能有双Session的情况  所以需要加上(?:[; ]|$)
+// 因为有可能有双Session的情况，所以需要加上(?:[; ]|$)
 var match = cookie_value.match(/username:(.*?)(?:[; ]|$)/);
 
 var usernameValue = match ? match[1] : null;
 
 if (usernameValue) {
+    // 用户已登录
+
+    // 隐藏登录和注册链接
+    var loginNavItem = document.querySelector('.nav.navbar-nav.navbar-right li:nth-child(4)');
+    var registerNavItem = document.querySelector('.nav.navbar-nav.navbar-right li:nth-child(5)');
+
+    if (loginNavItem) {
+        loginNavItem.style.display = 'none';
+    }
+
+    if (registerNavItem) {
+        registerNavItem.style.display = 'none';
+    }
+
+    // 获取用户名
     var username = usernameValue;
 
     // 创建分隔符
@@ -18,13 +32,13 @@ if (usernameValue) {
     var welcomeText = document.createElement('span');
     welcomeText.textContent = '欢迎 ' + username;
 
-    // 插入到 DOM 中的特定位置，例如在视频旁边
-    var videoNavItem = document.querySelector('.nav.navbar-nav.navbar-right li:nth-child(3)');
-    videoNavItem.appendChild(welcomeText.cloneNode(true));
+    // 插入到 DOM 中的特定位置，例如在笔记旁边
+    var notesNavItem = document.querySelector('.nav.navbar-nav.navbar-right li:nth-child(2)');
+    notesNavItem.appendChild(welcomeText.cloneNode(true));
 
-    // 让 videoNavItem 可以点击
-    videoNavItem.lastChild.style.cursor = 'pointer';
-    videoNavItem.lastChild.onclick = function() {
+    // 让 notesNavItem 可以点击
+    notesNavItem.lastChild.style.cursor = 'pointer';
+    notesNavItem.lastChild.onclick = function() {
         window.location.href = "/welcome";
     };
 
@@ -41,9 +55,10 @@ if (usernameValue) {
     };
 
     // 插入退出按钮到 DOM 中
-    videoNavItem.appendChild(separator);
-    videoNavItem.appendChild(logoutButton);
+    notesNavItem.appendChild(separator);
+    notesNavItem.appendChild(logoutButton);
 
 } else {
+    // 用户未登录
     console.error('username cookie not found.');
 }
