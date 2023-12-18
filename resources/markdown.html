@@ -1,0 +1,135 @@
+<!--
+ * @Author       : mark
+ * @Date         : 2020-06-30
+ * @copyleft GPL 2.0
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+     <meta charset="UTF-8">
+
+     <title>MARK-目录</title>
+     <link rel="icon" href="images/favicon.ico">
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/animate.css">
+     <link rel="stylesheet" href="css/magnific-popup.css">
+     <link rel="stylesheet" href="css/font-awesome.min.css">
+
+     <!-- Main css -->
+     <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
+
+     <!-- PRE LOADER -->
+     <div class="preloader">
+          <div class="spinner">
+               <span class="spinner-rotate"></span>
+          </div>
+     </div>
+
+     <!-- NAVIGATION SECTION -->
+     <div class="navbar custom-navbar navbar-fixed-top" role="navigation">
+          <div class="container">
+
+               <div class="navbar-header">
+                    <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
+                    </button>
+                    <!-- lOGO TEXT HERE -->
+                    <a href="/" class="navbar-brand">Mark</a>
+               </div>
+
+               <div class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                         <li><a class="smoothScroll" href="/">首页</a></li>
+                         <li><a class="smoothScroll" href="/markdown">笔记</a></li>
+                         <li><a class="smoothScroll" href="/project">项目</a></li>
+                    </ul>
+               </div>
+          </div>
+     </div>
+     <!-- HOME SECTION -->
+    
+     <section id="home">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-offset-1 col-md-2 col-sm-3">
+                         <img src="images/profile-image.jpg" class="wow fadeInUp img-responsive img-circle"
+                              data-wow-delay="0.2s" alt="about image">
+                    </div>
+
+                    <div class="col-md-8 col-sm-8">
+                         <h1 class="wow fadeInUp" data-wow-delay="0.6s">目录</h1>
+                    </div>
+
+               </div>
+          </div>
+          
+     </section>
+     
+     <div class="container">
+          <!-- 目录内容容器 -->
+          <div id="directory-content" class="row"></div>
+     </div>
+  
+     <!-- SCRIPTS -->
+     <script src="js/jquery.js"></script>
+     <script src="js/login.js"></script>
+     <script src="js/bootstrap.min.js"></script>
+     <script src="js/smoothscroll.js"></script>
+     <script src="js/jquery.magnific-popup.min.js"></script>
+     <script src="js/magnific-popup-options.js"></script>
+     <script src="js/wow.min.js"></script>
+     <script src="js/custom.js"></script>
+
+</body>
+
+</html>
+
+
+
+<script>
+     // 目录内容数据
+     var directoryData = [
+          { title: 'Markdown 1', url: '/markdown/C++高并发.md', description: 'C++高并发笔记' },
+          { title: 'Markdown 2', url: '/markdown/代码随想录2刷记录.md', description: '刷题记录' },
+          { title: 'Markdown 3', url: '/markdown/英文测试.md', description: 'test' },
+          // 添加更多目录项...
+     ];
+
+     // 将目录内容动态加载到页面中
+     var directoryContainer = document.getElementById('directory-content');
+
+     directoryData.forEach(function(item) {
+          var colDiv = document.createElement('div');
+          colDiv.className = 'col-md-4 col-sm-4';
+
+          var thumbnailDiv = document.createElement('div');
+          thumbnailDiv.className = 'thumbnail';
+
+          var title = document.createElement('h3');
+          title.textContent = item.title;
+
+          var description = document.createElement('p');
+          description.textContent = item.description;
+
+          var link = document.createElement('a');
+          link.href = item.url;
+          link.textContent = '查看详情';
+
+          thumbnailDiv.appendChild(title);
+          thumbnailDiv.appendChild(description);
+          thumbnailDiv.appendChild(link);
+
+          colDiv.appendChild(thumbnailDiv);
+
+          directoryContainer.appendChild(colDiv);
+     });
+</script>
