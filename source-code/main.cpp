@@ -12,8 +12,8 @@ int main(){
         false,        //OptLinger
         "localhost", //sqlHost
         3306,        //sqlPort
-        "", //sqlUsername
-        "", //sqlPassword
+        "web_admin", //sqlUsername
+        "asd123456", //sqlPassword
         "webserver", //dbname
         30,          //sqlconnPoolNum
         "127.0.0.1", //redisHost
