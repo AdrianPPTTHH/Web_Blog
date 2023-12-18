@@ -33,8 +33,7 @@ void SqlConnPool::Init(const char* host, int port,
         
         assert(connSize > 0);
         for(int i = 0; i < connSize; i++){
-            MYSQL *sql = nullptr;
-            sql = mysql_init(sql);
+            MYSQL *sql = mysql_init(nullptr);
             if(!sql){
                 LOG_ERROR("Mysql init error");
                 assert(sql);

@@ -2,7 +2,7 @@
 
 
 const std::unordered_map<std::string, std::string> HttpResponse::SUFFIX_TYPE{
-    {".html", "text/html"},
+    {".html", "text/html; charset=utf-8"},
     {".xml", "text/xml"},
     { ".xhtml", "application/xhtml+xml" },
     { ".txt",   "text/plain" },
@@ -21,6 +21,8 @@ const std::unordered_map<std::string, std::string> HttpResponse::SUFFIX_TYPE{
     { ".tar",   "application/x-tar" },
     { ".css",   "text/css "},
     { ".js",    "text/javascript "},
+    { ".md",    "text/html; charset=utf-8"},
+    { ".MD",    "text/html; charset=utf-8"},
 };
 
 
@@ -96,7 +98,7 @@ char * HttpResponse::File(){
 
 
 size_t HttpResponse::FileLen() const{
-    return mmFileStat_.st_size;
+    return file_len;
 }
 
 
@@ -142,6 +144,7 @@ void HttpResponse::AddHeader_(Buffer & buff){
 
 
 void HttpResponse::AddContent_(Buffer & buff){
+    
     int srcFd = open((srcDir_ + path_ ).data(), O_RDONLY);
     if(srcFd < 0){
         ErrorContent(buff, "File NotFound!");
@@ -150,21 +153,79 @@ void HttpResponse::AddContent_(Buffer & buff){
 
     LOG_DEBUG("file path %s", (srcDir_ + path_).data());
 
-    // 映射到内核的地址(null则自动分配）、要映射内存区域大小、需要保护的标志、映射对象类型、文件描述符、文件偏移量
-    // 返回的是被映射区域的虚拟地址
-    int* mmRet = (int*)mmap(NULL, mmFileStat_.st_size, PROT_READ, MAP_PRIVATE, srcFd, 0);
+    //判断是否是md格式的文件
+    size_t index = path_.find_last_of(".");
+    std::string extension;
 
-    if(*mmRet == -1){
-        ErrorContent(buff, "File NotFound!");
-        return;
+    if(index != std::string::npos){
+        extension  = path_.substr(index + 1);
     }
 
-    // 强制转换mmRet指向内容的格式， 从指向int转换成指向char类型，即字符串指针
-    mmFile_ = (char*)mmRet;
-    
-    buff.Append("Content-length: " + std::to_string(mmFileStat_.st_size) + "\r\n\r\n");
+    if(extension != "md" && extension != "MD"){
+        // 映射到内核的地址(null则自动分配）、要映射内存区域大小、需要保护的标志、映射对象类型、文件描述符、文件偏移量
+        // 返回的是被映射区域的虚拟地址
+        int* mmRet = (int*)mmap(NULL, mmFileStat_.st_size, PROT_READ, MAP_PRIVATE, srcFd, 0);
+
+        if(*mmRet == -1){
+            ErrorContent(buff, "File NotFound!");
+            return;
+        }
+
+        // 强制转换mmRet指向内容的格式， 从指向int转换成指向char类型，即字符串指针
+        mmFile_ = (char*)mmRet;
+
+        file_len = mmFileStat_.st_size;
+        
+        buff.Append("Content-length: " + std::to_string(file_len) + "\r\n\r\n");
+
+    }else{
+        char file_content[mmFileStat_.st_size];
+        int i = read(srcFd, &file_content, mmFileStat_.st_size);
+
+        //创建cmark结点
+        cmark_node * node = cmark_parse_document(file_content, strlen(file_content), CMARK_OPT_DEFAULT);
+
+        //转HTML
+        char *html = cmark_render_html(node, CMARK_OPT_DEFAULT);
+
+        std::string html_all;
+
+        char file_buf[2048];
+
+        // 读取head.html 和 end.html
+        int h_fd = open((srcDir_ + "markdown/head.html").data(), O_RDONLY);
+        int e_fd = open((srcDir_ + "markdown/end.html").data(), O_RDONLY);
+
+        if(h_fd == -1 || e_fd == -1){
+            ErrorContent(buff, "File Error!");
+            return;
+        }
+        
+        // 拼接
+        read(h_fd,file_buf, sizeof(file_buf));
+        html_all += file_buf;
+
+        memset(file_buf, 0, sizeof(file_buf));
+
+        html_all += html;
+
+        read(e_fd, file_buf, sizeof(file_buf));
+        html_all += file_buf;
+        
+        close(h_fd);
+        close(e_fd);
+
+        mmFile_ = html_all.data();
+
+        file_len = html_all.size();
+
+        buff.Append("Content-length: " + std::to_string(file_len) + "\r\n\r\n");
+        cmark_node_free(node);
+    }
+
     close(srcFd);
     // buff.Append(mmFile_, mmFileStat_.st_size);
+
 }
 
 

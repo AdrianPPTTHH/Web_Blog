@@ -10,6 +10,8 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <sys/mman.h>
+#include <cmark.h>
+#include <iconv.h>
 
 class HttpResponse{
 public:
@@ -41,6 +43,7 @@ private:
 
     void ErrorHtml_();
     std::string GetFileType_();
+    std::string convert_to_utf8(const char* source, const char* source_encoding);
 
     int code_;
     bool isKeepAlive_;
@@ -60,6 +63,8 @@ private:
 
     //cookie
     Cookie cookie_;
+
+    size_t file_len;
 };
 
 #endif

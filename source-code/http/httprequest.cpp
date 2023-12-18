@@ -6,8 +6,8 @@ const std::unordered_set<std::string> HttpRequest::DEFAULT_HTML = {
     "/register",
     "/login",
     "/welcome",
-    "/video",
-    "/picture",
+    "/project",
+    "/markdown",
 };
 
 const std::unordered_map<std::string, int> HttpRequest::DEFAULT_HTML_TAG = {
@@ -15,8 +15,8 @@ const std::unordered_map<std::string, int> HttpRequest::DEFAULT_HTML_TAG = {
     {"/login.html", 1},
     {"/index.html", 2},
     {"/welcome.html", 3},
-    {"/video.html", 4},
-    {"/picture.html", 5},
+    {"/project.html", 4},
+    {"/markdown.html", 5},
 };
 
 void HttpRequest::Init(){
@@ -132,7 +132,34 @@ void HttpRequest::ParsePath_(){
             }
         }
     }
-    
+
+    std::string result;
+    result.reserve(path_.size());
+
+    for (std::size_t i = 0; i < path_.size(); ++i) {
+        if (path_[i] == '%') {
+            if (i + 2 < path_.size() && isxdigit(path_[i + 1]) && isxdigit(path_[i + 2])) {
+                int hexValue;
+                std::istringstream hexStream(path_.substr(i + 1, 2));
+                hexStream >> std::hex >> hexValue;
+                result.push_back(static_cast<char>(hexValue));
+                i += 2;
+            } else {
+                // Invalid percent-encoded sequence, leave '%' as is.
+                result.push_back('%');
+            }
+        }
+        // else if (path_[i] == '+') {
+        //     result.push_back(' ');
+        // } 
+        else{
+            result.push_back(path_[i]);
+        }
+        
+    }
+
+    path_ = result;
+
 }
 
 
@@ -284,8 +311,10 @@ bool HttpRequest::UserVerify(const std::string& username, const std::string& pas
     // 是否是注册账号操作
     bool flag = !isLogin;
 
+
     MYSQL *sql; 
     SqlConnRAII(&sql, SqlConnPool::Instance());
+
     assert(sql);
 
     unsigned int j = 0;
@@ -414,7 +443,8 @@ bool HttpRequest::UserVerify(const std::string& username, const std::string& pas
         flag = true;
     }
 
-    SqlConnPool::Instance()->RecyConn(sql);
+    // RAII析构的时候会自动回收  不用手动回收
+    // SqlConnPool::Instance()->RecyConn(sql);
     return flag;
 }
 

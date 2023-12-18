@@ -95,6 +95,7 @@ bool HttpConn::process(){
         iov_[1].iov_len = response_.FileLen();
         iovCnt_ = 2;
     }
+
     LOG_DEBUG("file size: %d, %d to %d", response_.FileLen(), iovCnt_, ToWriteBytes());
 
     return true;
@@ -113,6 +114,8 @@ ssize_t HttpConn::write(int * saveErrno){
             *saveErrno = errno;
             break;
         }
+
+        // std::cout << (char*)iov_[1].iov_base << std::endl;
 
         if(iov_[0].iov_len + iov_[1].iov_len == 0){
             break;
