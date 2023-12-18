@@ -39,14 +39,16 @@ private:
     void DealListen_();
     void DealWrite_(HttpConn* client);
     void DealRead_(HttpConn* client);
-    
-    void SendError_(int fd, const char*info);
-    void ExtentTime_(HttpConn* client);
-    void CloseConn_(HttpConn* client);
-    
+
     void OnRead_(HttpConn* client);
     void OnWrite_(HttpConn* client);
     void OnProcess_(HttpConn* client);
+
+    void SendError_(int fd, const char*info);
+    void ExtentTime_(HttpConn* client);
+    void CloseConn_(HttpConn* client);
+    void Mysql_StateHold(std::chrono::seconds sec);
+    
 
     static const int MAX_FD = 65536;
     

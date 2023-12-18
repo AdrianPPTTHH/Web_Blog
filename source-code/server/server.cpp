@@ -94,15 +94,20 @@ void WebServer::Start(){
     int timeMS= -1;
     if(!isClose_){LOG_INFO("Server start!");}
     
+    // 防止mysql超时, 定时执行sql语句  (一般是28800秒(8小时)， 为了保险起见设置6小时21600秒)
+    auto a = std::bind(&WebServer::Mysql_StateHold, this, std::chrono::seconds(21600 / SqlConnPool::Instance()->GetFreeConnCount()));
+    threadpool_->threadPoolAdd(a);
+    
     // 死循环监听epoll
-    while(!isClose_){
+    while(!isClose_){ 
         if(timeoutMS_ > 0){
             // 清除超时任务
             timer_->tick();
-            // 获取下一个事件的超时时间
+            // 获取下一个事件的超时时间 
             timeMS = timer_->GetNextTick();
         }
 
+        
         // 启动epoll监听，返回监听到的数量（监听到的epoll_event储存到event_中，调用函数即可获取）
         int eventCnt = epoller_->Wait(timeMS);
 
@@ -355,4 +360,25 @@ int WebServer::SetFdNonblock(int fd){
     flag |= O_NONBLOCK;
 
     return fcntl(fd, F_SETFL, flag);
+}
+
+void WebServer::Mysql_StateHold(std::chrono::seconds sec){
+    
+    while(!isClose_){
+        MYSQL * sql = mysql_init(nullptr);
+        
+        SqlConnRAII(&sql, SqlConnPool::Instance());
+        
+        assert(sql);
+
+        //每隔2小时 执行一次WebServer::Time_mysql_callback()
+        
+
+        if(mysql_query(sql, "select 1;")){
+            LOG_ERROR("mysql error: %s", mysql_error(sql));
+        }
+
+        std::this_thread::sleep_for(std::chrono::seconds(sec));
+    }
+ 
 }
