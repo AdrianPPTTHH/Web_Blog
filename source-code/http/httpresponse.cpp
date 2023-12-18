@@ -190,7 +190,7 @@ void HttpResponse::AddContent_(Buffer & buff){
 
         std::string html_all;
 
-        char file_buf[2048];
+        char file_buf[8192];
 
         // 读取head.html 和 end.html
         int h_fd = open((srcDir_ + "markdown/head.html").data(), O_RDONLY);
