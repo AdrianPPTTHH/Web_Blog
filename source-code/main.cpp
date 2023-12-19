@@ -12,9 +12,9 @@ int main(){
         false,        //OptLinger
         "localhost", //sqlHost
         3306,        //sqlPort
-        "web_admin", //sqlUsername
-        "asd123456", //sqlPassword
-        "webserver", //dbname
+        "", //sqlUsername
+        "", //sqlPassword
+        "", //dbname
         30,          //sqlconnPoolNum
         "127.0.0.1", //redisHost
         6379,        //redisPort
