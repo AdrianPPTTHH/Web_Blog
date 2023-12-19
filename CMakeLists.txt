@@ -27,7 +27,7 @@ target_compile_features(run.exe PRIVATE cxx_std_17)
 target_include_directories(run.exe PRIVATE ./source-code)
 
 #link路劲添加
-target_link_directories(/your_path/cmark_include/lib /your_path/cmark_include/lib)
+target_link_directories(run.exe PRIVATE /home/kali/PTH/cmark_include/lib)
 
 target_link_libraries(run.exe mysqlclient)
 target_link_libraries(run.exe hiredis)

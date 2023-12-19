@@ -148,3 +148,1844 @@
 2023-12-19 11:57:07[info] : Client[76] quit!
 2023-12-19 11:57:07[info] : Client[71] quit!
 2023-12-19 11:57:09[info] : Client[70] quit!
+2023-12-19 12:22:02[info] : Server init
+2023-12-19 12:22:02[info] : Port:8876 , OpenLinger: false
+2023-12-19 12:22:02[info] : Listen Mode:ET, OpenConn Mode:ET
+2023-12-19 12:22:02[info] : LogSys level:2
+2023-12-19 12:22:02[info] : srcDir:/home/kali/PTH/Web_Blog/resources/
+2023-12-19 12:22:02[info] : SqlConnPool num:30, ThreadPool num:50
+2023-12-19 12:22:02[info] : Server start!
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:30709) in, userCount:1
+2023-12-19 12:22:04[info] : Client[70] in!
+2023-12-19 12:22:04[info] : Client[71](10.16.80.26:31221) in, userCount:2
+2023-12-19 12:22:04[info] : Client[71] in!
+2023-12-19 12:22:04[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /index.html
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 12:22:04[debug]: file size: 3342, 2 to 3440
+2023-12-19 12:22:04[info] : Client[70] quit!
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:30709) quit, UserCount:1
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:31733) in, userCount:2
+2023-12-19 12:22:04[info] : Client[70] in!
+2023-12-19 12:22:04[info] : Client[72](10.16.80.26:31989) in, userCount:3
+2023-12-19 12:22:04[info] : Client[72] in!
+2023-12-19 12:22:04[info] : Client[73](10.16.80.26:32245) in, userCount:4
+2023-12-19 12:22:04[info] : Client[73] in!
+2023-12-19 12:22:04[info] : Client[74](10.16.80.26:32501) in, userCount:5
+2023-12-19 12:22:04[info] : Client[74] in!
+2023-12-19 12:22:04[info] : Client[75](10.16.80.26:32757) in, userCount:6
+2023-12-19 12:22:04[info] : Client[75] in!
+2023-12-19 12:22:04[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /css/animate.css
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 12:22:04[debug]: file size: 72922, 2 to 73006
+2023-12-19 12:22:04[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /css/magnific-popup.css
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 12:22:04[debug]: file size: 6951, 2 to 7034
+2023-12-19 12:22:04[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /css/style.css
+2023-12-19 12:22:04[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /css/font-awesome.min.css
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 12:22:04[debug]: file size: 9807, 2 to 9890
+2023-12-19 12:22:04[info] : Client[72] quit!
+2023-12-19 12:22:04[info] : Client[72](10.16.80.26:31989) quit, UserCount:5
+2023-12-19 12:22:04[debug]: file size: 27392, 2 to 27476
+2023-12-19 12:22:04[info] : Client[74] quit!
+2023-12-19 12:22:04[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /css/bootstrap.min.css
+2023-12-19 12:22:04[info] : Client[74](10.16.80.26:32501) quit, UserCount:4
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 12:22:04[debug]: file size: 121260, 2 to 121345
+2023-12-19 12:22:04[info] : Client[70] quit!
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:33013) in, userCount:4
+2023-12-19 12:22:04[info] : Client[70] in!
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:33013) quit, UserCount:4
+2023-12-19 12:22:04[info] : Client[73] quit!
+2023-12-19 12:22:04[info] : Client[73](10.16.80.26:32245) quit, UserCount:3
+2023-12-19 12:22:04[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /images/avatar.jpg
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 12:22:04[debug]: file size: 10835, 2 to 10920
+2023-12-19 12:22:04[info] : Client[71] quit!
+2023-12-19 12:22:04[info] : Client[71](10.16.80.26:31221) quit, UserCount:3
+2023-12-19 12:22:04[info] : Client[73](10.16.80.26:33269) in, userCount:4
+2023-12-19 12:22:04[info] : Client[73] in!
+2023-12-19 12:22:04[info] : Client[71](10.16.80.26:33525) in, userCount:4
+2023-12-19 12:22:04[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /js/jquery.js
+2023-12-19 12:22:04[info] : Client[71] in!
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 12:22:04[debug]: file size: 85658, 2 to 85749
+2023-12-19 12:22:04[info] : Client[75] quit!
+2023-12-19 12:22:04[info] : Client[75](10.16.80.26:32757) quit, UserCount:3
+2023-12-19 12:22:04[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /js/login.js
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 12:22:04[debug]: file size: 2036, 2 to 2126
+2023-12-19 12:22:04[info] : Client[72](10.16.80.26:33781) in, userCount:4
+2023-12-19 12:22:04[info] : Client[72] in!
+2023-12-19 12:22:04[info] : Client[74](10.16.80.26:34037) in, userCount:5
+2023-12-19 12:22:04[info] : Client[74] in!
+2023-12-19 12:22:04[info] : Client[73] quit!
+2023-12-19 12:22:04[info] : Client[73](10.16.80.26:33269) quit, UserCount:4
+2023-12-19 12:22:04[info] : Client[70] quit!
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:33013) quit, UserCount:3
+2023-12-19 12:22:04[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /js/smoothscroll.js
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 12:22:04[debug]: file size: 4474, 2 to 4564
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:34293) in, userCount:4
+2023-12-19 12:22:04[info] : Client[70] in!
+2023-12-19 12:22:04[info] : Client[72] quit!
+2023-12-19 12:22:04[info] : Client[72](10.16.80.26:33781) quit, UserCount:3
+2023-12-19 12:22:04[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /js/bootstrap.min.js
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 12:22:04[debug]: file size: 36868, 2 to 36959
+2023-12-19 12:22:04[info] : Client[72](10.16.80.26:34549) in, userCount:4
+2023-12-19 12:22:04[info] : Client[72] in!
+2023-12-19 12:22:04[info] : Client[73](10.16.80.26:34805) in, userCount:5
+2023-12-19 12:22:04[info] : Client[73] in!
+2023-12-19 12:22:04[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 12:22:04[debug]: file size: 20932, 2 to 21023
+2023-12-19 12:22:04[info] : Client[71] quit!
+2023-12-19 12:22:04[info] : Client[71](10.16.80.26:33525) quit, UserCount:4
+2023-12-19 12:22:04[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /js/magnific-popup-options.js
+2023-12-19 12:22:04[info] : Client[74] quit!
+2023-12-19 12:22:04[info] : Client[74](10.16.80.26:34037) quit, UserCount:3
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 12:22:04[debug]: file size: 1069, 2 to 1159
+2023-12-19 12:22:04[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /js/wow.min.js
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 12:22:04[debug]: file size: 7082, 2 to 7172
+2023-12-19 12:22:04[info] : Client[70] quit!
+2023-12-19 12:22:04[info] : Client[72] quit!
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:34293) quit, UserCount:2
+2023-12-19 12:22:04[info] : Client[72](10.16.80.26:34549) quit, UserCount:1
+2023-12-19 12:22:04[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /js/custom.js
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 12:22:04[debug]: file size: 1047, 2 to 1137
+2023-12-19 12:22:04[info] : Client[73] quit!
+2023-12-19 12:22:04[info] : Client[73](10.16.80.26:34805) quit, UserCount:0
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:35573) in, userCount:1
+2023-12-19 12:22:04[info] : Client[70] in!
+2023-12-19 12:22:04[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 12:22:04[debug]: /images/favicon.ico
+2023-12-19 12:22:04[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 12:22:04[debug]: file size: 60990, 2 to 61075
+2023-12-19 12:22:04[info] : Client[70] quit!
+2023-12-19 12:22:04[info] : Client[70](10.16.80.26:35573) quit, UserCount:0
+2023-12-19 12:23:04[info] : Client[75] quit!
+2023-12-19 12:23:04[info] : Client[71] quit!
+2023-12-19 12:23:04[info] : Client[74] quit!
+2023-12-19 12:23:04[info] : Client[72] quit!
+2023-12-19 12:23:04[info] : Client[73] quit!
+2023-12-19 12:23:04[info] : Client[70] quit!
+2023-12-19 12:23:10[info] : Client[70](10.16.80.26:50677) in, userCount:1
+2023-12-19 12:23:10[info] : Client[70] in!
+2023-12-19 12:23:10[info] : Client[71](10.16.80.26:50933) in, userCount:2
+2023-12-19 12:23:10[info] : Client[71] in!
+2023-12-19 12:23:10[info] : Client[72](10.16.80.26:51189) in, userCount:3
+2023-12-19 12:23:10[info] : Client[72] in!
+2023-12-19 12:23:10[info] : Client[73](10.16.80.26:51445) in, userCount:4
+2023-12-19 12:23:10[info] : Client[73] in!
+2023-12-19 12:23:10[info] : Client[74](10.16.80.26:51701) in, userCount:5
+2023-12-19 12:23:10[info] : Client[74] in!
+2023-12-19 12:23:10[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 12:23:10[debug]: /css/animate.css
+2023-12-19 12:23:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 12:23:10[debug]: file size: 72922, 2 to 73006
+2023-12-19 12:23:10[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 12:23:10[debug]: /css/bootstrap.min.css
+2023-12-19 12:23:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 12:23:10[debug]: file size: 121260, 2 to 121345
+2023-12-19 12:23:10[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 12:23:10[debug]: /css/magnific-popup.css
+2023-12-19 12:23:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 12:23:10[debug]: file size: 6951, 2 to 7034
+2023-12-19 12:23:10[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 12:23:10[info] : Client[70] quit!
+2023-12-19 12:23:10[info] : Client[72] quit!
+2023-12-19 12:23:10[debug]: /css/font-awesome.min.css
+2023-12-19 12:23:10[info] : Client[71] quit!
+2023-12-19 12:23:10[info] : Client[70](10.16.80.26:50677) quit, UserCount:4
+2023-12-19 12:23:10[info] : Client[71](10.16.80.26:50933) quit, UserCount:2
+2023-12-19 12:23:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 12:23:10[info] : Client[72](10.16.80.26:51189) quit, UserCount:2
+2023-12-19 12:23:10[debug]: file size: 27392, 2 to 27476
+2023-12-19 12:23:10[info] : Client[73] quit!
+2023-12-19 12:23:10[info] : Client[73](10.16.80.26:51445) quit, UserCount:1
+2023-12-19 12:23:10[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 12:23:10[debug]: /css/style.css
+2023-12-19 12:23:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 12:23:10[debug]: file size: 9807, 2 to 9890
+2023-12-19 12:23:10[info] : Client[74] quit!
+2023-12-19 12:23:10[info] : Client[74](10.16.80.26:51701) quit, UserCount:0
+2023-12-19 12:23:10[info] : Client[70](10.16.80.26:51957) in, userCount:1
+2023-12-19 12:23:10[info] : Client[70] in!
+2023-12-19 12:23:10[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 12:23:10[debug]: /css/bootstrap.min.css.map
+2023-12-19 12:23:10[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 12:23:10[debug]: file size: 3057, 2 to 3162
+2023-12-19 12:23:10[info] : Client[70] quit!
+2023-12-19 12:23:10[info] : Client[70](10.16.80.26:51957) quit, UserCount:0
+2023-12-19 12:23:10[info] : Client[70](10.16.80.26:52213) in, userCount:1
+2023-12-19 12:23:10[info] : Client[70] in!
+2023-12-19 12:23:11[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /index.html
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 12:23:11[debug]: file size: 3342, 2 to 3440
+2023-12-19 12:23:11[info] : Client[70] quit!
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:52213) quit, UserCount:0
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:53493) in, userCount:1
+2023-12-19 12:23:11[info] : Client[70] in!
+2023-12-19 12:23:11[info] : Client[71](10.16.80.26:53749) in, userCount:2
+2023-12-19 12:23:11[info] : Client[71] in!
+2023-12-19 12:23:11[info] : Client[72](10.16.80.26:54005) in, userCount:3
+2023-12-19 12:23:11[info] : Client[72] in!
+2023-12-19 12:23:11[info] : Client[73](10.16.80.26:54261) in, userCount:4
+2023-12-19 12:23:11[info] : Client[73] in!
+2023-12-19 12:23:11[info] : Client[74](10.16.80.26:54517) in, userCount:5
+2023-12-19 12:23:11[info] : Client[74] in!
+2023-12-19 12:23:11[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /css/bootstrap.min.css
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 12:23:11[debug]: file size: 121260, 2 to 121345
+2023-12-19 12:23:11[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /css/font-awesome.min.css
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 12:23:11[debug]: file size: 27392, 2 to 27476
+2023-12-19 12:23:11[info] : Client[70] quit!
+2023-12-19 12:23:11[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /css/magnific-popup.css
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 12:23:11[info] : Client[73] quit!
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:53493) quit, UserCount:4
+2023-12-19 12:23:11[info] : Client[76](10.16.80.26:54773) in, userCount:5
+2023-12-19 12:23:11[info] : Client[76] in!
+2023-12-19 12:23:11[info] : Client[73](10.16.80.26:54261) quit, UserCount:4
+2023-12-19 12:23:11[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /css/style.css
+2023-12-19 12:23:11[debug]: file size: 6951, 2 to 7034
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 12:23:11[debug]: file size: 9807, 2 to 9890
+2023-12-19 12:23:11[info] : Client[72] quit!
+2023-12-19 12:23:11[info] : Client[72](10.16.80.26:54005) quit, UserCount:3
+2023-12-19 12:23:11[info] : Client[74] quit!
+2023-12-19 12:23:11[info] : Client[74](10.16.80.26:54517) quit, UserCount:2
+2023-12-19 12:23:11[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /css/animate.css
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 12:23:11[debug]: file size: 72922, 2 to 73006
+2023-12-19 12:23:11[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /js/jquery.js
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 12:23:11[debug]: file size: 85658, 2 to 85749
+2023-12-19 12:23:11[info] : Client[71] quit!
+2023-12-19 12:23:11[info] : Client[71](10.16.80.26:53749) quit, UserCount:1
+2023-12-19 12:23:11[info] : Client[76] quit!
+2023-12-19 12:23:11[info] : Client[76](10.16.80.26:54773) quit, UserCount:0
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:55029) in, userCount:1
+2023-12-19 12:23:11[info] : Client[70] in!
+2023-12-19 12:23:11[info] : Client[71](10.16.80.26:55285) in, userCount:2
+2023-12-19 12:23:11[info] : Client[71] in!
+2023-12-19 12:23:11[info] : Client[72](10.16.80.26:55541) in, userCount:3
+2023-12-19 12:23:11[info] : Client[72] in!
+2023-12-19 12:23:11[info] : Client[73](10.16.80.26:55797) in, userCount:4
+2023-12-19 12:23:11[info] : Client[73] in!
+2023-12-19 12:23:11[info] : Client[74](10.16.80.26:56053) in, userCount:5
+2023-12-19 12:23:11[info] : Client[74] in!
+2023-12-19 12:23:11[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /images/avatar.jpg
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 12:23:11[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /js/smoothscroll.js
+2023-12-19 12:23:11[info] : Client[75](10.16.80.26:56309) in, userCount:6
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 12:23:11[info] : Client[75] in!
+2023-12-19 12:23:11[debug]: file size: 4474, 2 to 4564
+2023-12-19 12:23:11[debug]: file size: 10835, 2 to 10920
+2023-12-19 12:23:11[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /js/bootstrap.min.js
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 12:23:11[debug]: file size: 36868, 2 to 36959
+2023-12-19 12:23:11[info] : Client[73] quit!
+2023-12-19 12:23:11[info] : Client[73](10.16.80.26:55797) quit, UserCount:5
+2023-12-19 12:23:11[info] : Client[72] quit!
+2023-12-19 12:23:11[info] : Client[72](10.16.80.26:55541) quit, UserCount:4
+2023-12-19 12:23:11[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /js/login.js
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 12:23:11[debug]: file size: 2036, 2 to 2126
+2023-12-19 12:23:11[info] : Client[71] quit!
+2023-12-19 12:23:11[info] : Client[71](10.16.80.26:55285) quit, UserCount:3
+2023-12-19 12:23:11[info] : Client[70] quit!
+2023-12-19 12:23:11[info] : Client[71](10.16.80.26:56565) in, userCount:3
+2023-12-19 12:23:11[info] : Client[71] in!
+2023-12-19 12:23:11[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /js/magnific-popup-options.js
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 12:23:11[debug]: file size: 1069, 2 to 1159
+2023-12-19 12:23:11[info] : Client[75] quit!
+2023-12-19 12:23:11[info] : Client[75](10.16.80.26:56309) quit, UserCount:2
+2023-12-19 12:23:11[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 12:23:11[debug]: file size: 20932, 2 to 21023
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:55029) quit, UserCount:3
+2023-12-19 12:23:11[info] : Client[74] quit!
+2023-12-19 12:23:11[info] : Client[74](10.16.80.26:56053) quit, UserCount:1
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:56821) in, userCount:2
+2023-12-19 12:23:11[info] : Client[70] in!
+2023-12-19 12:23:11[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /js/wow.min.js
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 12:23:11[debug]: file size: 7082, 2 to 7172
+2023-12-19 12:23:11[info] : Client[71] quit!
+2023-12-19 12:23:11[info] : Client[71](10.16.80.26:56565) quit, UserCount:1
+2023-12-19 12:23:11[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /js/custom.js
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 12:23:11[debug]: file size: 1047, 2 to 1137
+2023-12-19 12:23:11[info] : Client[70] quit!
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:56821) quit, UserCount:0
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:57589) in, userCount:1
+2023-12-19 12:23:11[info] : Client[70] in!
+2023-12-19 12:23:11[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /images/favicon.ico
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 12:23:11[debug]: file size: 60990, 2 to 61075
+2023-12-19 12:23:11[info] : Client[70] quit!
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:57589) quit, UserCount:0
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:57845) in, userCount:1
+2023-12-19 12:23:11[info] : Client[70] in!
+2023-12-19 12:23:11[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 12:23:11[debug]: /css/bootstrap.min.css.map
+2023-12-19 12:23:11[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 12:23:11[debug]: file size: 3057, 2 to 3162
+2023-12-19 12:23:11[info] : Client[70] quit!
+2023-12-19 12:23:11[info] : Client[70](10.16.80.26:57845) quit, UserCount:0
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:60149) in, userCount:1
+2023-12-19 12:23:20[info] : Client[70] in!
+2023-12-19 12:23:20[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /index.html
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 12:23:20[debug]: file size: 3342, 2 to 3440
+2023-12-19 12:23:20[info] : Client[71](10.16.80.26:60405) in, userCount:2
+2023-12-19 12:23:20[info] : Client[71] in!
+2023-12-19 12:23:20[info] : Client[70] quit!
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:60149) quit, UserCount:1
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:60661) in, userCount:2
+2023-12-19 12:23:20[info] : Client[70] in!
+2023-12-19 12:23:20[info] : Client[72](10.16.80.26:60917) in, userCount:3
+2023-12-19 12:23:20[info] : Client[72] in!
+2023-12-19 12:23:20[info] : Client[73](10.16.80.26:61173) in, userCount:4
+2023-12-19 12:23:20[info] : Client[73] in!
+2023-12-19 12:23:20[info] : Client[74](10.16.80.26:61429) in, userCount:5
+2023-12-19 12:23:20[info] : Client[74] in!
+2023-12-19 12:23:20[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /css/bootstrap.min.css
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 12:23:20[debug]: file size: 121260, 2 to 121345
+2023-12-19 12:23:20[info] : Client[75](10.16.80.26:61685) in, userCount:6
+2023-12-19 12:23:20[info] : Client[75] in!
+2023-12-19 12:23:20[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /css/font-awesome.min.css
+2023-12-19 12:23:20[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 12:23:20[debug]: file size: 27392, 2 to 27476
+2023-12-19 12:23:20[info] : Client[71] quit!
+2023-12-19 12:23:20[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /css/animate.css
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 12:23:20[debug]: /css/magnific-popup.css
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 12:23:20[info] : Client[71](10.16.80.26:60405) quit, UserCount:5
+2023-12-19 12:23:20[info] : Client[73] quit!
+2023-12-19 12:23:20[info] : Client[73](10.16.80.26:61173) quit, UserCount:4
+2023-12-19 12:23:20[debug]: file size: 6951, 2 to 7034
+2023-12-19 12:23:20[debug]: file size: 72922, 2 to 73006
+2023-12-19 12:23:20[info] : Client[72] quit!
+2023-12-19 12:23:20[info] : Client[72](10.16.80.26:60917) quit, UserCount:3
+2023-12-19 12:23:20[info] : Client[70] quit!
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:60661) quit, UserCount:2
+2023-12-19 12:23:20[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /js/jquery.js
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 12:23:20[debug]: file size: 85658, 2 to 85749
+2023-12-19 12:23:20[info] : Client[75] quit!
+2023-12-19 12:23:20[info] : Client[75](10.16.80.26:61685) quit, UserCount:1
+2023-12-19 12:23:20[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /css/style.css
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 12:23:20[debug]: file size: 9807, 2 to 9890
+2023-12-19 12:23:20[info] : Client[74] quit!
+2023-12-19 12:23:20[info] : Client[74](10.16.80.26:61429) quit, UserCount:0
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:61941) in, userCount:1
+2023-12-19 12:23:20[info] : Client[70] in!
+2023-12-19 12:23:20[info] : Client[71](10.16.80.26:62197) in, userCount:2
+2023-12-19 12:23:20[info] : Client[71] in!
+2023-12-19 12:23:20[info] : Client[72](10.16.80.26:62453) in, userCount:3
+2023-12-19 12:23:20[info] : Client[72] in!
+2023-12-19 12:23:20[info] : Client[73](10.16.80.26:62709) in, userCount:4
+2023-12-19 12:23:20[info] : Client[73] in!
+2023-12-19 12:23:20[info] : Client[74](10.16.80.26:62965) in, userCount:5
+2023-12-19 12:23:20[info] : Client[74] in!
+2023-12-19 12:23:20[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /images/avatar.jpg
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 12:23:20[debug]: file size: 10835, 2 to 10920
+2023-12-19 12:23:20[info] : Client[75](10.16.80.26:63221) in, userCount:6
+2023-12-19 12:23:20[info] : Client[75] in!
+2023-12-19 12:23:20[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /js/smoothscroll.js
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 12:23:20[debug]: file size: 4474, 2 to 4564
+2023-12-19 12:23:20[info] : Client[70] quit!
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:61941) quit, UserCount:5
+2023-12-19 12:23:20[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /js/login.js
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 12:23:20[debug]: file size: 2036, 2 to 2126
+2023-12-19 12:23:20[info] : Client[73] quit!
+2023-12-19 12:23:20[info] : Client[71] quit!
+2023-12-19 12:23:20[info] : Client[73](10.16.80.26:62709) quit, UserCount:4
+2023-12-19 12:23:20[info] : Client[71](10.16.80.26:62197) quit, UserCount:3
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:63477) in, userCount:4
+2023-12-19 12:23:20[info] : Client[70] in!
+2023-12-19 12:23:20[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /js/bootstrap.min.js
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 12:23:20[debug]: file size: 36868, 2 to 36959
+2023-12-19 12:23:20[info] : Client[72] quit!
+2023-12-19 12:23:20[info] : Client[72](10.16.80.26:62453) quit, UserCount:3
+2023-12-19 12:23:20[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /js/magnific-popup-options.js
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 12:23:20[debug]: file size: 1069, 2 to 1159
+2023-12-19 12:23:20[info] : Client[75] quit!
+2023-12-19 12:23:20[info] : Client[75](10.16.80.26:63221) quit, UserCount:2
+2023-12-19 12:23:20[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 12:23:20[info] : Client[72](10.16.80.26:63733) in, userCount:3
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 12:23:20[debug]: file size: 20932, 2 to 21023
+2023-12-19 12:23:20[info] : Client[72] in!
+2023-12-19 12:23:20[info] : Client[74] quit!
+2023-12-19 12:23:20[info] : Client[74](10.16.80.26:62965) quit, UserCount:2
+2023-12-19 12:23:20[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /js/wow.min.js
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 12:23:20[debug]: file size: 7082, 2 to 7172
+2023-12-19 12:23:20[info] : Client[70] quit!
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:63477) quit, UserCount:1
+2023-12-19 12:23:20[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /js/custom.js
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 12:23:20[debug]: file size: 1047, 2 to 1137
+2023-12-19 12:23:20[info] : Client[72] quit!
+2023-12-19 12:23:20[info] : Client[72](10.16.80.26:63733) quit, UserCount:0
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:63989) in, userCount:1
+2023-12-19 12:23:20[info] : Client[70] in!
+2023-12-19 12:23:20[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /images/favicon.ico
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 12:23:20[debug]: file size: 60990, 2 to 61075
+2023-12-19 12:23:20[info] : Client[70] quit!
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:63989) quit, UserCount:0
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:64245) in, userCount:1
+2023-12-19 12:23:20[info] : Client[70] in!
+2023-12-19 12:23:20[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 12:23:20[debug]: /css/bootstrap.min.css.map
+2023-12-19 12:23:20[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 12:23:20[debug]: file size: 3057, 2 to 3162
+2023-12-19 12:23:20[info] : Client[70] quit!
+2023-12-19 12:23:20[info] : Client[70](10.16.80.26:64245) quit, UserCount:0
+2023-12-19 12:24:11[info] : Client[76] quit!
+2023-12-19 12:24:20[info] : Client[73] quit!
+2023-12-19 12:24:20[info] : Client[71] quit!
+2023-12-19 12:24:20[info] : Client[75] quit!
+2023-12-19 12:24:20[info] : Client[74] quit!
+2023-12-19 12:24:20[info] : Client[72] quit!
+2023-12-19 12:24:20[info] : Client[70] quit!
+2023-12-19 13:00:04[info] : Server init
+2023-12-19 13:00:04[info] : Port:8876 , OpenLinger: false
+2023-12-19 13:00:04[info] : Listen Mode:ET, OpenConn Mode:ET
+2023-12-19 13:00:04[info] : LogSys level:2
+2023-12-19 13:00:04[info] : srcDir:/home/kali/PTH/Web_Blog/resources/
+2023-12-19 13:00:04[info] : SqlConnPool num:30, ThreadPool num:50
+2023-12-19 13:00:04[info] : Server start!
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:65022) in, userCount:1
+2023-12-19 13:00:07[info] : Client[70] in!
+2023-12-19 13:00:07[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /index.html
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:00:07[debug]: file size: 3342, 2 to 3440
+2023-12-19 13:00:07[info] : Client[70] quit!
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:65022) quit, UserCount:0
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:767) in, userCount:1
+2023-12-19 13:00:07[info] : Client[70] in!
+2023-12-19 13:00:07[info] : Client[71](10.16.80.26:1023) in, userCount:2
+2023-12-19 13:00:07[info] : Client[71] in!
+2023-12-19 13:00:07[info] : Client[72](10.16.80.26:1279) in, userCount:3
+2023-12-19 13:00:07[info] : Client[72] in!
+2023-12-19 13:00:07[info] : Client[73](10.16.80.26:1535) in, userCount:4
+2023-12-19 13:00:07[info] : Client[73] in!
+2023-12-19 13:00:07[info] : Client[74](10.16.80.26:1791) in, userCount:5
+2023-12-19 13:00:07[info] : Client[74] in!
+2023-12-19 13:00:07[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /css/bootstrap.min.css
+2023-12-19 13:00:07[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /css/animate.css
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:00:07[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:00:07[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:00:07[info] : Client[71] quit!
+2023-12-19 13:00:07[info] : Client[71](10.16.80.26:1023) quit, UserCount:4
+2023-12-19 13:00:07[info] : Client[70] quit!
+2023-12-19 13:00:07[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /css/magnific-popup.css
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:767) quit, UserCount:3
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:2047) in, userCount:4
+2023-12-19 13:00:07[info] : Client[70] in!
+2023-12-19 13:00:07[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:00:07[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /css/font-awesome.min.css
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:00:07[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:00:07[info] : Client[72] quit!
+2023-12-19 13:00:07[info] : Client[72](10.16.80.26:1279) quit, UserCount:3
+2023-12-19 13:00:07[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /css/style.css
+2023-12-19 13:00:07[info] : Client[73] quit!
+2023-12-19 13:00:07[info] : Client[73](10.16.80.26:1535) quit, UserCount:2
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:00:07[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:00:07[info] : Client[74] quit!
+2023-12-19 13:00:07[info] : Client[74](10.16.80.26:1791) quit, UserCount:1
+2023-12-19 13:00:07[info] : Client[71](10.16.80.26:2303) in, userCount:2
+2023-12-19 13:00:07[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /js/jquery.js
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:00:07[info] : Client[71] in!
+2023-12-19 13:00:07[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:00:07[info] : Client[72](10.16.80.26:2559) in, userCount:3
+2023-12-19 13:00:07[info] : Client[72] in!
+2023-12-19 13:00:07[info] : Client[70] quit!
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:2047) quit, UserCount:2
+2023-12-19 13:00:07[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:2815) in, userCount:3
+2023-12-19 13:00:07[debug]: /images/avatar.jpg
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:00:07[info] : Client[70] in!
+2023-12-19 13:00:07[info] : Client[73](10.16.80.26:3071) in, userCount:4
+2023-12-19 13:00:07[info] : Client[73] in!
+2023-12-19 13:00:07[info] : Client[74](10.16.80.26:3327) in, userCount:5
+2023-12-19 13:00:07[info] : Client[74] in!
+2023-12-19 13:00:07[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:00:07[info] : Client[75](10.16.80.26:3583) in, userCount:6
+2023-12-19 13:00:07[info] : Client[75] in!
+2023-12-19 13:00:07[info] : Client[71] quit!
+2023-12-19 13:00:07[info] : Client[71](10.16.80.26:2303) quit, UserCount:5
+2023-12-19 13:00:07[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /js/smoothscroll.js
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:00:07[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:00:07[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /js/login.js
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:00:07[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:00:07[info] : Client[73] quit!
+2023-12-19 13:00:07[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:00:07[info] : Client[73](10.16.80.26:3071) quit, UserCount:4
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:00:07[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:00:07[info] : Client[72] quit!
+2023-12-19 13:00:07[info] : Client[72](10.16.80.26:2559) quit, UserCount:3
+2023-12-19 13:00:07[info] : Client[74] quit!
+2023-12-19 13:00:07[info] : Client[74](10.16.80.26:3327) quit, UserCount:2
+2023-12-19 13:00:07[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /js/bootstrap.min.js
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:00:07[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:00:07[info] : Client[71](10.16.80.26:3839) in, userCount:3
+2023-12-19 13:00:07[info] : Client[71] in!
+2023-12-19 13:00:07[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /js/magnific-popup-options.js
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:00:07[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:00:07[info] : Client[70] quit!
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:2815) quit, UserCount:2
+2023-12-19 13:00:07[info] : Client[75] quit!
+2023-12-19 13:00:07[info] : Client[75](10.16.80.26:3583) quit, UserCount:1
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:4095) in, userCount:2
+2023-12-19 13:00:07[info] : Client[70] in!
+2023-12-19 13:00:07[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /js/wow.min.js
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:00:07[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:00:07[info] : Client[71] quit!
+2023-12-19 13:00:07[info] : Client[71](10.16.80.26:3839) quit, UserCount:1
+2023-12-19 13:00:07[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:00:07[debug]: /js/custom.js
+2023-12-19 13:00:07[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:00:07[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:00:07[info] : Client[70] quit!
+2023-12-19 13:00:07[info] : Client[70](10.16.80.26:4095) quit, UserCount:0
+2023-12-19 13:00:08[info] : Client[70](10.16.80.26:4863) in, userCount:1
+2023-12-19 13:00:08[info] : Client[70] in!
+2023-12-19 13:00:08[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:00:08[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:00:08[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:00:08[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:00:08[info] : Client[70] quit!
+2023-12-19 13:00:08[info] : Client[70](10.16.80.26:4863) quit, UserCount:0
+2023-12-19 13:00:08[info] : Client[70](10.16.80.26:5631) in, userCount:1
+2023-12-19 13:00:08[info] : Client[70] in!
+2023-12-19 13:00:08[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 13:00:08[debug]: /images/favicon.ico
+2023-12-19 13:00:08[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 13:00:08[debug]: file size: 60990, 2 to 61075
+2023-12-19 13:00:08[info] : Client[70] quit!
+2023-12-19 13:00:08[info] : Client[70](10.16.80.26:5631) quit, UserCount:0
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:6655) in, userCount:1
+2023-12-19 13:00:10[info] : Client[70] in!
+2023-12-19 13:00:10[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /index.html
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:00:10[debug]: file size: 3342, 2 to 3440
+2023-12-19 13:00:10[info] : Client[70] quit!
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:6655) quit, UserCount:0
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:6911) in, userCount:1
+2023-12-19 13:00:10[info] : Client[70] in!
+2023-12-19 13:00:10[info] : Client[71](10.16.80.26:7167) in, userCount:2
+2023-12-19 13:00:10[info] : Client[71] in!
+2023-12-19 13:00:10[info] : Client[72](10.16.80.26:7423) in, userCount:3
+2023-12-19 13:00:10[info] : Client[72] in!
+2023-12-19 13:00:10[info] : Client[73](10.16.80.26:7679) in, userCount:4
+2023-12-19 13:00:10[info] : Client[73] in!
+2023-12-19 13:00:10[info] : Client[74](10.16.80.26:7935) in, userCount:5
+2023-12-19 13:00:10[info] : Client[74] in!
+2023-12-19 13:00:10[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /css/bootstrap.min.css
+2023-12-19 13:00:10[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /css/animate.css
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:00:10[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:00:10[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /css/magnific-popup.css
+2023-12-19 13:00:10[info] : Client[77](10.16.80.26:8191) in, userCount:6
+2023-12-19 13:00:10[info] : Client[77] in!
+2023-12-19 13:00:10[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /css/font-awesome.min.css
+2023-12-19 13:00:10[info] : Client[71] quit!
+2023-12-19 13:00:10[info] : Client[71](10.16.80.26:7167) quit, UserCount:5
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:00:10[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:00:10[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /css/style.css
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:00:10[info] : Client[72] quit!
+2023-12-19 13:00:10[info] : Client[72](10.16.80.26:7423) quit, UserCount:4
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:00:10[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:00:10[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:00:10[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:00:10[info] : Client[73] quit!
+2023-12-19 13:00:10[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /js/jquery.js
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:00:10[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:00:10[info] : Client[73](10.16.80.26:7679) quit, UserCount:3
+2023-12-19 13:00:10[info] : Client[74] quit!
+2023-12-19 13:00:10[info] : Client[74](10.16.80.26:7935) quit, UserCount:2
+2023-12-19 13:00:10[info] : Client[77] quit!
+2023-12-19 13:00:10[info] : Client[77](10.16.80.26:8191) quit, UserCount:1
+2023-12-19 13:00:10[info] : Client[70] quit!
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:6911) quit, UserCount:0
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:8447) in, userCount:1
+2023-12-19 13:00:10[info] : Client[70] in!
+2023-12-19 13:00:10[info] : Client[71](10.16.80.26:8703) in, userCount:2
+2023-12-19 13:00:10[info] : Client[71] in!
+2023-12-19 13:00:10[info] : Client[72](10.16.80.26:8959) in, userCount:3
+2023-12-19 13:00:10[info] : Client[72] in!
+2023-12-19 13:00:10[info] : Client[73](10.16.80.26:9215) in, userCount:4
+2023-12-19 13:00:10[info] : Client[73] in!
+2023-12-19 13:00:10[info] : Client[74](10.16.80.26:9471) in, userCount:5
+2023-12-19 13:00:10[info] : Client[74] in!
+2023-12-19 13:00:10[info] : Client[75](10.16.80.26:9727) in, userCount:6
+2023-12-19 13:00:10[info] : Client[75] in!
+2023-12-19 13:00:10[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /js/bootstrap.min.js
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:00:10[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:00:10[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /js/login.js
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:00:10[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:00:10[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /images/avatar.jpg
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:00:10[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:00:10[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /js/magnific-popup-options.js
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:00:10[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:00:10[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:00:10[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:00:10[info] : Client[72] quit!
+2023-12-19 13:00:10[info] : Client[72](10.16.80.26:8959) quit, UserCount:5
+2023-12-19 13:00:10[info] : Client[71] quit!
+2023-12-19 13:00:10[info] : Client[71](10.16.80.26:8703) quit, UserCount:4
+2023-12-19 13:00:10[info] : Client[70] quit!
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:8447) quit, UserCount:3
+2023-12-19 13:00:10[info] : Client[75] quit!
+2023-12-19 13:00:10[info] : Client[75](10.16.80.26:9727) quit, UserCount:2
+2023-12-19 13:00:10[info] : Client[74] quit!
+2023-12-19 13:00:10[info] : Client[74](10.16.80.26:9471) quit, UserCount:1
+2023-12-19 13:00:10[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /js/smoothscroll.js
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:00:10[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:00:10[info] : Client[73] quit!
+2023-12-19 13:00:10[info] : Client[73](10.16.80.26:9215) quit, UserCount:0
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:9983) in, userCount:1
+2023-12-19 13:00:10[info] : Client[70] in!
+2023-12-19 13:00:10[info] : Client[71](10.16.80.26:10239) in, userCount:2
+2023-12-19 13:00:10[info] : Client[71] in!
+2023-12-19 13:00:10[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /js/custom.js
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:00:10[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:00:10[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /js/wow.min.js
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:00:10[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:00:10[info] : Client[71] quit!
+2023-12-19 13:00:10[info] : Client[71](10.16.80.26:10239) quit, UserCount:1
+2023-12-19 13:00:10[info] : Client[70] quit!
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:9983) quit, UserCount:0
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:10495) in, userCount:1
+2023-12-19 13:00:10[info] : Client[70] in!
+2023-12-19 13:00:10[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /images/favicon.ico
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 13:00:10[debug]: file size: 60990, 2 to 61075
+2023-12-19 13:00:10[info] : Client[70] quit!
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:10495) quit, UserCount:0
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:10751) in, userCount:1
+2023-12-19 13:00:10[info] : Client[70] in!
+2023-12-19 13:00:10[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:00:10[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:00:10[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:00:10[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:00:10[info] : Client[70] quit!
+2023-12-19 13:00:10[info] : Client[70](10.16.80.26:10751) quit, UserCount:0
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:19711) in, userCount:1
+2023-12-19 13:00:28[info] : Client[70] in!
+2023-12-19 13:00:28[info] : Client[71](10.16.80.26:20223) in, userCount:2
+2023-12-19 13:00:28[info] : Client[71] in!
+2023-12-19 13:00:28[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /index.html
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:00:28[debug]: file size: 3342, 2 to 3440
+2023-12-19 13:00:28[info] : Client[70] quit!
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:19711) quit, UserCount:1
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:20735) in, userCount:2
+2023-12-19 13:00:28[info] : Client[70] in!
+2023-12-19 13:00:28[info] : Client[72](10.16.80.26:20991) in, userCount:3
+2023-12-19 13:00:28[info] : Client[72] in!
+2023-12-19 13:00:28[info] : Client[73](10.16.80.26:21247) in, userCount:4
+2023-12-19 13:00:28[info] : Client[73] in!
+2023-12-19 13:00:28[info] : Client[74](10.16.80.26:21503) in, userCount:5
+2023-12-19 13:00:28[info] : Client[74] in!
+2023-12-19 13:00:28[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /css/magnific-popup.css
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:00:28[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:00:28[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /css/animate.css
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:00:28[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:00:28[info] : Client[75](10.16.80.26:21759) in, userCount:6
+2023-12-19 13:00:28[info] : Client[75] in!
+2023-12-19 13:00:28[info] : Client[72] quit!
+2023-12-19 13:00:28[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /css/font-awesome.min.css
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:00:28[info] : Client[72](10.16.80.26:20991) quit, UserCount:5
+2023-12-19 13:00:28[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:00:28[info] : Client[70] quit!
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:20735) quit, UserCount:4
+2023-12-19 13:00:28[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /css/style.css
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:00:28[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:00:28[info] : Client[73] quit!
+2023-12-19 13:00:28[info] : Client[73](10.16.80.26:21247) quit, UserCount:3
+2023-12-19 13:00:28[info] : Client[74] quit!
+2023-12-19 13:00:28[info] : Client[74](10.16.80.26:21503) quit, UserCount:2
+2023-12-19 13:00:28[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /css/bootstrap.min.css
+2023-12-19 13:00:28[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /js/jquery.js
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:00:28[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:00:28[info] : Client[75] quit!
+2023-12-19 13:00:28[info] : Client[75](10.16.80.26:21759) quit, UserCount:1
+2023-12-19 13:00:28[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:00:28[info] : Client[71] quit!
+2023-12-19 13:00:28[info] : Client[71](10.16.80.26:20223) quit, UserCount:0
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:22015) in, userCount:1
+2023-12-19 13:00:28[info] : Client[70] in!
+2023-12-19 13:00:28[info] : Client[71](10.16.80.26:22271) in, userCount:2
+2023-12-19 13:00:28[info] : Client[71] in!
+2023-12-19 13:00:28[info] : Client[72](10.16.80.26:22527) in, userCount:3
+2023-12-19 13:00:28[info] : Client[72] in!
+2023-12-19 13:00:28[info] : Client[73](10.16.80.26:22783) in, userCount:4
+2023-12-19 13:00:28[info] : Client[73] in!
+2023-12-19 13:00:28[info] : Client[74](10.16.80.26:23039) in, userCount:5
+2023-12-19 13:00:28[info] : Client[74] in!
+2023-12-19 13:00:28[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /images/avatar.jpg
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:00:28[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:00:28[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /js/login.js
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:00:28[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:00:28[info] : Client[70] quit!
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:22015) quit, UserCount:4
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:23295) in, userCount:5
+2023-12-19 13:00:28[info] : Client[70] in!
+2023-12-19 13:00:28[info] : Client[71] quit!
+2023-12-19 13:00:28[info] : Client[71](10.16.80.26:22271) quit, UserCount:4
+2023-12-19 13:00:28[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /js/smoothscroll.js
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:00:28[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:00:28[info] : Client[71](10.16.80.26:23551) in, userCount:5
+2023-12-19 13:00:28[info] : Client[71] in!
+2023-12-19 13:00:28[info] : Client[75](10.16.80.26:23807) in, userCount:6
+2023-12-19 13:00:28[info] : Client[75] in!
+2023-12-19 13:00:28[info] : Client[73] quit!
+2023-12-19 13:00:28[info] : Client[73](10.16.80.26:22783) quit, UserCount:5
+2023-12-19 13:00:28[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /js/bootstrap.min.js
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:00:28[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:00:28[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:00:28[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:00:28[info] : Client[72] quit!
+2023-12-19 13:00:28[info] : Client[74] quit!
+2023-12-19 13:00:28[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /js/wow.min.js
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:00:28[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /js/magnific-popup-options.js
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:00:28[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:00:28[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:00:28[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:00:28[info] : Client[72](10.16.80.26:22527) quit, UserCount:4
+2023-12-19 13:00:28[debug]: /js/custom.js
+2023-12-19 13:00:28[info] : Client[71] quit!
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:00:28[info] : Client[71](10.16.80.26:23551) quit, UserCount:2
+2023-12-19 13:00:28[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:00:28[info] : Client[75] quit!
+2023-12-19 13:00:28[info] : Client[75](10.16.80.26:23807) quit, UserCount:1
+2023-12-19 13:00:28[info] : Client[70] quit!
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:23295) quit, UserCount:0
+2023-12-19 13:00:28[info] : Client[74](10.16.80.26:23039) quit, UserCount:3
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:24063) in, userCount:1
+2023-12-19 13:00:28[info] : Client[70] in!
+2023-12-19 13:00:28[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:00:28[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:00:28[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:00:28[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:00:28[info] : Client[70] quit!
+2023-12-19 13:00:28[info] : Client[70](10.16.80.26:24063) quit, UserCount:0
+2023-12-19 13:00:59[info] : Server init
+2023-12-19 13:00:59[info] : Port:8876 , OpenLinger: false
+2023-12-19 13:00:59[info] : Listen Mode:ET, OpenConn Mode:ET
+2023-12-19 13:00:59[info] : LogSys level:2
+2023-12-19 13:00:59[info] : srcDir:/home/kali/PTH/Web_Blog/resources/
+2023-12-19 13:00:59[info] : SqlConnPool num:30, ThreadPool num:50
+2023-12-19 13:00:59[info] : Server start!
+2023-12-19 13:01:00[info] : Client[70](10.16.80.26:30975) in, userCount:1
+2023-12-19 13:01:00[info] : Client[70] in!
+2023-12-19 13:01:00[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:01:00[debug]: /index.html
+2023-12-19 13:01:00[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:01:00[debug]: file size: 3342, 2 to 3440
+2023-12-19 13:01:00[info] : Client[70] quit!
+2023-12-19 13:01:00[info] : Client[70](10.16.80.26:30975) quit, UserCount:0
+2023-12-19 13:01:00[info] : Client[70](10.16.80.26:31487) in, userCount:1
+2023-12-19 13:01:00[info] : Client[70] in!
+2023-12-19 13:01:00[info] : Client[71](10.16.80.26:31743) in, userCount:2
+2023-12-19 13:01:00[info] : Client[71] in!
+2023-12-19 13:01:00[info] : Client[72](10.16.80.26:31999) in, userCount:3
+2023-12-19 13:01:00[info] : Client[72] in!
+2023-12-19 13:01:00[info] : Client[73](10.16.80.26:32255) in, userCount:4
+2023-12-19 13:01:00[info] : Client[73] in!
+2023-12-19 13:01:00[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:01:00[debug]: /css/bootstrap.min.css
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:01:01[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:01:01[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /css/magnific-popup.css
+2023-12-19 13:01:01[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /css/animate.css
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:01:01[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:01:01[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:01:01[info] : Client[75](10.16.80.26:32511) in, userCount:5
+2023-12-19 13:01:01[info] : Client[75] in!
+2023-12-19 13:01:01[info] : Client[74](10.16.80.26:32767) in, userCount:6
+2023-12-19 13:01:01[info] : Client[74] in!
+2023-12-19 13:01:01[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /css/font-awesome.min.css
+2023-12-19 13:01:01[info] : Client[70] quit!
+2023-12-19 13:01:01[info] : Client[70](10.16.80.26:31487) quit, UserCount:5
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:01:01[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:01:01[info] : Client[72] quit!
+2023-12-19 13:01:01[info] : Client[73] quit!
+2023-12-19 13:01:01[info] : Client[71] quit!
+2023-12-19 13:01:01[info] : Client[71](10.16.80.26:31743) quit, UserCount:3
+2023-12-19 13:01:01[info] : Client[72](10.16.80.26:31999) quit, UserCount:2
+2023-12-19 13:01:01[info] : Client[73](10.16.80.26:32255) quit, UserCount:2
+2023-12-19 13:01:01[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /css/style.css
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:01:01[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /js/jquery.js
+2023-12-19 13:01:01[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:01:01[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:01:01[info] : Client[71](10.16.80.26:33023) in, userCount:3
+2023-12-19 13:01:01[info] : Client[71] in!
+2023-12-19 13:01:01[info] : Client[70](10.16.80.26:33279) in, userCount:4
+2023-12-19 13:01:01[info] : Client[70] in!
+2023-12-19 13:01:01[info] : Client[75] quit!
+2023-12-19 13:01:01[info] : Client[75](10.16.80.26:32511) quit, UserCount:3
+2023-12-19 13:01:01[info] : Client[74] quit!
+2023-12-19 13:01:01[info] : Client[74](10.16.80.26:32767) quit, UserCount:2
+2023-12-19 13:01:01[info] : Client[72](10.16.80.26:33535) in, userCount:3
+2023-12-19 13:01:01[info] : Client[72] in!
+2023-12-19 13:01:01[info] : Client[73](10.16.80.26:33791) in, userCount:4
+2023-12-19 13:01:01[info] : Client[73] in!
+2023-12-19 13:01:01[info] : Client[74](10.16.80.26:34047) in, userCount:5
+2023-12-19 13:01:01[info] : Client[74] in!
+2023-12-19 13:01:01[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /js/login.js
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:01:01[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:01:01[info] : Client[75](10.16.80.26:34303) in, userCount:6
+2023-12-19 13:01:01[info] : Client[75] in!
+2023-12-19 13:01:01[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /js/bootstrap.min.js
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:01:01[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:01:01[info] : Client[70] quit!
+2023-12-19 13:01:01[info] : Client[70](10.16.80.26:33279) quit, UserCount:5
+2023-12-19 13:01:01[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:01:01[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:01:01[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /js/smoothscroll.js
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:01:01[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:01:01[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /images/avatar.jpg
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:01:01[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:01:01[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /js/magnific-popup-options.js
+2023-12-19 13:01:01[info] : Client[70](10.16.80.26:34559) in, userCount:6
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:01:01[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:01:01[info] : Client[74] quit!
+2023-12-19 13:01:01[info] : Client[74](10.16.80.26:34047) quit, UserCount:5
+2023-12-19 13:01:01[info] : Client[70] in!
+2023-12-19 13:01:01[info] : Client[72] quit!
+2023-12-19 13:01:01[info] : Client[72](10.16.80.26:33535) quit, UserCount:4
+2023-12-19 13:01:01[info] : Client[73] quit!
+2023-12-19 13:01:01[info] : Client[73](10.16.80.26:33791) quit, UserCount:3
+2023-12-19 13:01:01[info] : Client[72](10.16.80.26:34815) in, userCount:4
+2023-12-19 13:01:01[info] : Client[72] in!
+2023-12-19 13:01:01[info] : Client[71] quit!
+2023-12-19 13:01:01[info] : Client[75] quit!
+2023-12-19 13:01:01[info] : Client[71](10.16.80.26:33023) quit, UserCount:3
+2023-12-19 13:01:01[info] : Client[75](10.16.80.26:34303) quit, UserCount:2
+2023-12-19 13:01:01[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /js/wow.min.js
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:01:01[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:01:01[info] : Client[70] quit!
+2023-12-19 13:01:01[info] : Client[70](10.16.80.26:34559) quit, UserCount:1
+2023-12-19 13:01:01[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /js/custom.js
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:01:01[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:01:01[info] : Client[72] quit!
+2023-12-19 13:01:01[info] : Client[72](10.16.80.26:34815) quit, UserCount:0
+2023-12-19 13:01:01[info] : Client[70](10.16.80.26:35071) in, userCount:1
+2023-12-19 13:01:01[info] : Client[70] in!
+2023-12-19 13:01:01[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /images/favicon.ico
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 13:01:01[debug]: file size: 60990, 2 to 61075
+2023-12-19 13:01:01[info] : Client[70] quit!
+2023-12-19 13:01:01[info] : Client[70](10.16.80.26:35071) quit, UserCount:0
+2023-12-19 13:01:01[info] : Client[70](10.16.80.26:35327) in, userCount:1
+2023-12-19 13:01:01[info] : Client[70] in!
+2023-12-19 13:01:01[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:01:01[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:01:01[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:01:01[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:01:01[info] : Client[70] quit!
+2023-12-19 13:01:01[info] : Client[70](10.16.80.26:35327) quit, UserCount:0
+2023-12-19 13:02:01[info] : Client[74] quit!
+2023-12-19 13:02:01[info] : Client[73] quit!
+2023-12-19 13:02:01[info] : Client[71] quit!
+2023-12-19 13:02:01[info] : Client[75] quit!
+2023-12-19 13:02:01[info] : Client[72] quit!
+2023-12-19 13:02:01[info] : Client[70] quit!
+2023-12-19 13:03:19[info] : Server init
+2023-12-19 13:03:19[info] : Port:8876 , OpenLinger: false
+2023-12-19 13:03:19[info] : Listen Mode:ET, OpenConn Mode:ET
+2023-12-19 13:03:19[info] : LogSys level:2
+2023-12-19 13:03:19[info] : srcDir:/home/kali/PTH/Web_Blog/resources/
+2023-12-19 13:03:19[info] : SqlConnPool num:30, ThreadPool num:50
+2023-12-19 13:03:19[info] : Server start!
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:60159) in, userCount:1
+2023-12-19 13:03:22[info] : Client[70] in!
+2023-12-19 13:03:22[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /index.html
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:03:22[debug]: file size: 3342, 2 to 3440
+2023-12-19 13:03:22[info] : Client[70] quit!
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:60159) quit, UserCount:0
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:60927) in, userCount:1
+2023-12-19 13:03:22[info] : Client[70] in!
+2023-12-19 13:03:22[info] : Client[71](10.16.80.26:61695) in, userCount:2
+2023-12-19 13:03:22[info] : Client[71] in!
+2023-12-19 13:03:22[info] : Client[72](10.16.80.26:61951) in, userCount:3
+2023-12-19 13:03:22[info] : Client[72] in!
+2023-12-19 13:03:22[info] : Client[73](10.16.80.26:62207) in, userCount:4
+2023-12-19 13:03:22[info] : Client[73] in!
+2023-12-19 13:03:22[info] : Client[74](10.16.80.26:62463) in, userCount:5
+2023-12-19 13:03:22[info] : Client[74] in!
+2023-12-19 13:03:22[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /css/magnific-popup.css
+2023-12-19 13:03:22[info] : Client[75](10.16.80.26:62719) in, userCount:6
+2023-12-19 13:03:22[info] : Client[75] in!
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:03:22[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:03:22[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /css/animate.css
+2023-12-19 13:03:22[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /css/font-awesome.min.css
+2023-12-19 13:03:22[info] : Client[72] quit!
+2023-12-19 13:03:22[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /css/bootstrap.min.css
+2023-12-19 13:03:22[info] : Client[72](10.16.80.26:61951) quit, UserCount:5
+2023-12-19 13:03:22[debug]: /js/jquery.js
+2023-12-19 13:03:22[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:03:22[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:03:22[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:03:22[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:03:22[debug]: /css/style.css
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:03:22[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:03:22[info] : Client[71] quit!
+2023-12-19 13:03:22[info] : Client[73] quit!
+2023-12-19 13:03:22[info] : Client[75] quit!
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:03:22[info] : Client[70] quit!
+2023-12-19 13:03:22[info] : Client[71](10.16.80.26:61695) quit, UserCount:3
+2023-12-19 13:03:22[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:60927) quit, UserCount:2
+2023-12-19 13:03:22[info] : Client[74] quit!
+2023-12-19 13:03:22[info] : Client[75](10.16.80.26:62719) quit, UserCount:1
+2023-12-19 13:03:22[info] : Client[74](10.16.80.26:62463) quit, UserCount:0
+2023-12-19 13:03:22[info] : Client[73](10.16.80.26:62207) quit, UserCount:0
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:62975) in, userCount:1
+2023-12-19 13:03:22[info] : Client[70] in!
+2023-12-19 13:03:22[info] : Client[71](10.16.80.26:63231) in, userCount:2
+2023-12-19 13:03:22[info] : Client[71] in!
+2023-12-19 13:03:22[info] : Client[72](10.16.80.26:63487) in, userCount:3
+2023-12-19 13:03:22[info] : Client[72] in!
+2023-12-19 13:03:22[info] : Client[73](10.16.80.26:63743) in, userCount:4
+2023-12-19 13:03:22[info] : Client[73] in!
+2023-12-19 13:03:22[info] : Client[74](10.16.80.26:63999) in, userCount:5
+2023-12-19 13:03:22[info] : Client[74] in!
+2023-12-19 13:03:22[info] : Client[75](10.16.80.26:64255) in, userCount:6
+2023-12-19 13:03:22[info] : Client[75] in!
+2023-12-19 13:03:22[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /images/avatar.jpg
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:03:22[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:03:22[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /js/login.js
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:03:22[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:03:22[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:03:22[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /js/smoothscroll.js
+2023-12-19 13:03:22[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:03:22[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:03:22[info] : Client[71] quit!
+2023-12-19 13:03:22[info] : Client[71](10.16.80.26:63231) quit, UserCount:5
+2023-12-19 13:03:22[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /js/magnific-popup-options.js
+2023-12-19 13:03:22[debug]: /js/bootstrap.min.js
+2023-12-19 13:03:22[info] : Client[74] quit!
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:03:22[info] : Client[74](10.16.80.26:63999) quit, UserCount:4
+2023-12-19 13:03:22[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:03:22[info] : Client[75] quit!
+2023-12-19 13:03:22[info] : Client[70] quit!
+2023-12-19 13:03:22[info] : Client[73] quit!
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:64511) in, userCount:2
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:62975) quit, UserCount:2
+2023-12-19 13:03:22[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:03:22[info] : Client[70] in!
+2023-12-19 13:03:22[info] : Client[75](10.16.80.26:64255) quit, UserCount:2
+2023-12-19 13:03:22[info] : Client[71](10.16.80.26:64767) in, userCount:3
+2023-12-19 13:03:22[info] : Client[73](10.16.80.26:63743) quit, UserCount:2
+2023-12-19 13:03:22[info] : Client[71] in!
+2023-12-19 13:03:22[info] : Client[72] quit!
+2023-12-19 13:03:22[info] : Client[72](10.16.80.26:63487) quit, UserCount:2
+2023-12-19 13:03:22[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /js/wow.min.js
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:03:22[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:03:22[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /js/custom.js
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:03:22[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:03:22[info] : Client[70] quit!
+2023-12-19 13:03:22[info] : Client[71] quit!
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:64511) quit, UserCount:1
+2023-12-19 13:03:22[info] : Client[71](10.16.80.26:64767) quit, UserCount:0
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:192) in, userCount:1
+2023-12-19 13:03:22[info] : Client[70] in!
+2023-12-19 13:03:22[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /images/favicon.ico
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 13:03:22[debug]: file size: 60990, 2 to 61075
+2023-12-19 13:03:22[info] : Client[70] quit!
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:192) quit, UserCount:0
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:448) in, userCount:1
+2023-12-19 13:03:22[info] : Client[70] in!
+2023-12-19 13:03:22[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:03:22[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:03:22[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:03:22[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:03:22[info] : Client[70] quit!
+2023-12-19 13:03:22[info] : Client[70](10.16.80.26:448) quit, UserCount:0
+2023-12-19 13:04:23[info] : Server init
+2023-12-19 13:04:23[info] : Port:8876 , OpenLinger: false
+2023-12-19 13:04:23[info] : Listen Mode:ET, OpenConn Mode:ET
+2023-12-19 13:04:23[info] : LogSys level:2
+2023-12-19 13:04:23[info] : srcDir:/home/kali/PTH/Web_Blog/resources/
+2023-12-19 13:04:23[info] : SqlConnPool num:30, ThreadPool num:50
+2023-12-19 13:04:23[info] : Server start!
+2023-12-19 13:04:25[info] : Client[70](10.16.80.26:20416) in, userCount:1
+2023-12-19 13:04:25[info] : Client[70] in!
+2023-12-19 13:04:25[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /index.html
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:04:25[debug]: file size: 3342, 2 to 3478
+2023-12-19 13:04:25[info] : Client[71](10.16.80.26:21184) in, userCount:2
+2023-12-19 13:04:25[info] : Client[71] in!
+2023-12-19 13:04:25[info] : Client[72](10.16.80.26:21952) in, userCount:3
+2023-12-19 13:04:25[info] : Client[72] in!
+2023-12-19 13:04:25[info] : Client[73](10.16.80.26:22208) in, userCount:4
+2023-12-19 13:04:25[info] : Client[73] in!
+2023-12-19 13:04:25[info] : Client[74](10.16.80.26:22464) in, userCount:5
+2023-12-19 13:04:25[info] : Client[74] in!
+2023-12-19 13:04:25[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /css/animate.css
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:04:25[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:04:25[info] : Client[75](10.16.80.26:22720) in, userCount:6
+2023-12-19 13:04:25[info] : Client[75] in!
+2023-12-19 13:04:25[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /css/bootstrap.min.css
+2023-12-19 13:04:25[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /css/style.css
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:04:25[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:04:25[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /css/magnific-popup.css
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:04:25[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:04:25[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /css/font-awesome.min.css
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:04:25[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:04:25[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:04:25[info] : Client[71] quit!
+2023-12-19 13:04:25[info] : Client[70] quit!
+2023-12-19 13:04:25[info] : Client[70](10.16.80.26:20416) quit, UserCount:4
+2023-12-19 13:04:25[info] : Client[72] quit!
+2023-12-19 13:04:25[info] : Client[72](10.16.80.26:21952) quit, UserCount:3
+2023-12-19 13:04:25[info] : Client[73] quit!
+2023-12-19 13:04:25[info] : Client[73](10.16.80.26:22208) quit, UserCount:2
+2023-12-19 13:04:25[info] : Client[74] quit!
+2023-12-19 13:04:25[info] : Client[74](10.16.80.26:22464) quit, UserCount:1
+2023-12-19 13:04:25[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /js/jquery.js
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:04:25[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:04:25[info] : Client[75] quit!
+2023-12-19 13:04:25[info] : Client[75](10.16.80.26:22720) quit, UserCount:0
+2023-12-19 13:04:25[info] : Client[71](10.16.80.26:21184) quit, UserCount:0
+2023-12-19 13:04:25[info] : Client[70](10.16.80.26:22976) in, userCount:1
+2023-12-19 13:04:25[info] : Client[70] in!
+2023-12-19 13:04:25[info] : Client[71](10.16.80.26:23232) in, userCount:2
+2023-12-19 13:04:25[info] : Client[71] in!
+2023-12-19 13:04:25[info] : Client[72](10.16.80.26:23488) in, userCount:3
+2023-12-19 13:04:25[info] : Client[72] in!
+2023-12-19 13:04:25[info] : Client[73](10.16.80.26:23744) in, userCount:4
+2023-12-19 13:04:25[info] : Client[73] in!
+2023-12-19 13:04:25[info] : Client[74](10.16.80.26:24000) in, userCount:5
+2023-12-19 13:04:25[info] : Client[74] in!
+2023-12-19 13:04:25[info] : Client[75](10.16.80.26:24256) in, userCount:6
+2023-12-19 13:04:25[info] : Client[75] in!
+2023-12-19 13:04:25[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /js/login.js
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:04:25[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:04:25[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /js/bootstrap.min.js
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:04:25[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:04:25[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:04:25[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:04:25[info] : Client[71] quit!
+2023-12-19 13:04:25[info] : Client[71](10.16.80.26:23232) quit, UserCount:5
+2023-12-19 13:04:25[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /js/smoothscroll.js
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:04:25[info] : Client[72] quit!
+2023-12-19 13:04:25[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:04:25[info] : Client[74] quit!
+2023-12-19 13:04:25[info] : Client[72](10.16.80.26:23488) quit, UserCount:4
+2023-12-19 13:04:25[info] : Client[74](10.16.80.26:24000) quit, UserCount:3
+2023-12-19 13:04:25[info] : Client[73] quit!
+2023-12-19 13:04:25[debug]: /images/avatar.jpg
+2023-12-19 13:04:25[info] : Client[73](10.16.80.26:23744) quit, UserCount:2
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:04:25[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:04:25[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /js/magnific-popup-options.js
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:04:25[info] : Client[72](10.16.80.26:24512) in, userCount:3
+2023-12-19 13:04:25[info] : Client[72] in!
+2023-12-19 13:04:25[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:04:25[info] : Client[75] quit!
+2023-12-19 13:04:25[info] : Client[71](10.16.80.26:24768) in, userCount:3
+2023-12-19 13:04:25[info] : Client[75](10.16.80.26:24256) quit, UserCount:3
+2023-12-19 13:04:25[info] : Client[71] in!
+2023-12-19 13:04:25[info] : Client[70] quit!
+2023-12-19 13:04:25[info] : Client[70](10.16.80.26:22976) quit, UserCount:2
+2023-12-19 13:04:25[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /js/wow.min.js
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:04:25[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:04:25[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /js/custom.js
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:04:25[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:04:25[info] : Client[72] quit!
+2023-12-19 13:04:25[info] : Client[72](10.16.80.26:24512) quit, UserCount:1
+2023-12-19 13:04:25[info] : Client[71] quit!
+2023-12-19 13:04:25[info] : Client[71](10.16.80.26:24768) quit, UserCount:0
+2023-12-19 13:04:25[info] : Client[70](10.16.80.26:25536) in, userCount:1
+2023-12-19 13:04:25[info] : Client[70] in!
+2023-12-19 13:04:25[info] : Client[71](10.16.80.26:25792) in, userCount:2
+2023-12-19 13:04:25[info] : Client[71] in!
+2023-12-19 13:04:25[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /images/favicon.ico
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 13:04:25[debug]: file size: 60990, 2 to 61075
+2023-12-19 13:04:25[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:04:25[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:04:25[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:04:25[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:04:25[info] : Client[71] quit!
+2023-12-19 13:04:25[info] : Client[71](10.16.80.26:25792) quit, UserCount:1
+2023-12-19 13:04:25[info] : Client[70] quit!
+2023-12-19 13:04:25[info] : Client[70](10.16.80.26:25536) quit, UserCount:0
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:27840) in, userCount:1
+2023-12-19 13:04:30[info] : Client[70] in!
+2023-12-19 13:04:30[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /index.html
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:04:30[debug]: file size: 3342, 2 to 3478
+2023-12-19 13:04:30[info] : Client[71](10.16.80.26:28096) in, userCount:2
+2023-12-19 13:04:30[info] : Client[71] in!
+2023-12-19 13:04:30[info] : Client[72](10.16.80.26:28352) in, userCount:3
+2023-12-19 13:04:30[info] : Client[72] in!
+2023-12-19 13:04:30[info] : Client[73](10.16.80.26:28608) in, userCount:4
+2023-12-19 13:04:30[info] : Client[73] in!
+2023-12-19 13:04:30[info] : Client[74](10.16.80.26:28864) in, userCount:5
+2023-12-19 13:04:30[info] : Client[74] in!
+2023-12-19 13:04:30[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /css/bootstrap.min.css
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:04:30[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:04:30[info] : Client[75](10.16.80.26:29120) in, userCount:6
+2023-12-19 13:04:30[info] : Client[75] in!
+2023-12-19 13:04:30[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /css/magnific-popup.css
+2023-12-19 13:04:30[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /css/font-awesome.min.css
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:04:30[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:04:30[info] : Client[70] quit!
+2023-12-19 13:04:30[info] : Client[73] quit!
+2023-12-19 13:04:30[info] : Client[73](10.16.80.26:28608) quit, UserCount:4
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:27840) quit, UserCount:4
+2023-12-19 13:04:30[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /css/animate.css
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:04:30[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:04:30[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:04:30[info] : Client[72] quit!
+2023-12-19 13:04:30[info] : Client[72](10.16.80.26:28352) quit, UserCount:3
+2023-12-19 13:04:30[info] : Client[71] quit!
+2023-12-19 13:04:30[info] : Client[71](10.16.80.26:28096) quit, UserCount:2
+2023-12-19 13:04:30[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /js/jquery.js
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:04:30[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:04:30[info] : Client[75] quit!
+2023-12-19 13:04:30[info] : Client[75](10.16.80.26:29120) quit, UserCount:1
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:29376) in, userCount:2
+2023-12-19 13:04:30[info] : Client[70] in!
+2023-12-19 13:04:30[info] : Client[71](10.16.80.26:29632) in, userCount:3
+2023-12-19 13:04:30[info] : Client[71] in!
+2023-12-19 13:04:30[info] : Client[72](10.16.80.26:29888) in, userCount:4
+2023-12-19 13:04:30[info] : Client[72] in!
+2023-12-19 13:04:30[info] : Client[73](10.16.80.26:30144) in, userCount:5
+2023-12-19 13:04:30[info] : Client[73] in!
+2023-12-19 13:04:30[info] : Client[75](10.16.80.26:30400) in, userCount:6
+2023-12-19 13:04:30[info] : Client[75] in!
+2023-12-19 13:04:30[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /css/style.css
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:04:30[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:04:30[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /images/avatar.jpg
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:04:30[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /js/login.js
+2023-12-19 13:04:30[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:04:30[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:04:30[info] : Client[71] quit!
+2023-12-19 13:04:30[info] : Client[71](10.16.80.26:29632) quit, UserCount:5
+2023-12-19 13:04:30[info] : Client[74] quit!
+2023-12-19 13:04:30[info] : Client[74](10.16.80.26:28864) quit, UserCount:4
+2023-12-19 13:04:30[info] : Client[70] quit!
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:29376) quit, UserCount:3
+2023-12-19 13:04:30[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /js/smoothscroll.js
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:04:30[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:04:30[info] : Client[73] quit!
+2023-12-19 13:04:30[info] : Client[73](10.16.80.26:30144) quit, UserCount:2
+2023-12-19 13:04:30[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /js/bootstrap.min.js
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:04:30[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:04:30[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:04:30[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:04:30[info] : Client[72] quit!
+2023-12-19 13:04:30[info] : Client[72](10.16.80.26:29888) quit, UserCount:1
+2023-12-19 13:04:30[info] : Client[75] quit!
+2023-12-19 13:04:30[info] : Client[75](10.16.80.26:30400) quit, UserCount:0
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:30656) in, userCount:1
+2023-12-19 13:04:30[info] : Client[70] in!
+2023-12-19 13:04:30[info] : Client[71](10.16.80.26:30912) in, userCount:2
+2023-12-19 13:04:30[info] : Client[71] in!
+2023-12-19 13:04:30[info] : Client[72](10.16.80.26:31168) in, userCount:3
+2023-12-19 13:04:30[info] : Client[72] in!
+2023-12-19 13:04:30[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /js/custom.js
+2023-12-19 13:04:30[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /js/wow.min.js
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:04:30[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:04:30[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:04:30[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /js/magnific-popup-options.js
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:04:30[info] : Client[71] quit!
+2023-12-19 13:04:30[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:04:30[info] : Client[71](10.16.80.26:30912) quit, UserCount:2
+2023-12-19 13:04:30[info] : Client[72] quit!
+2023-12-19 13:04:30[info] : Client[72](10.16.80.26:31168) quit, UserCount:1
+2023-12-19 13:04:30[info] : Client[70] quit!
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:30656) quit, UserCount:0
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:31680) in, userCount:1
+2023-12-19 13:04:30[info] : Client[70] in!
+2023-12-19 13:04:30[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /images/favicon.ico
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 13:04:30[debug]: file size: 60990, 2 to 61075
+2023-12-19 13:04:30[info] : Client[70] quit!
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:31680) quit, UserCount:0
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:31936) in, userCount:1
+2023-12-19 13:04:30[info] : Client[70] in!
+2023-12-19 13:04:30[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:04:30[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:04:30[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:04:30[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:04:30[info] : Client[70] quit!
+2023-12-19 13:04:30[info] : Client[70](10.16.80.26:31936) quit, UserCount:0
+2023-12-19 13:04:31[info] : Client[70](10.16.80.26:32704) in, userCount:1
+2023-12-19 13:04:31[info] : Client[70] in!
+2023-12-19 13:04:32[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /index.html
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:04:32[debug]: file size: 3342, 2 to 3478
+2023-12-19 13:04:32[info] : Client[71](10.16.80.26:32960) in, userCount:2
+2023-12-19 13:04:32[info] : Client[71] in!
+2023-12-19 13:04:32[info] : Client[72](10.16.80.26:33216) in, userCount:3
+2023-12-19 13:04:32[info] : Client[72] in!
+2023-12-19 13:04:32[info] : Client[73](10.16.80.26:33472) in, userCount:4
+2023-12-19 13:04:32[info] : Client[73] in!
+2023-12-19 13:04:32[info] : Client[74](10.16.80.26:33728) in, userCount:5
+2023-12-19 13:04:32[info] : Client[74] in!
+2023-12-19 13:04:32[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /css/animate.css
+2023-12-19 13:04:32[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /css/bootstrap.min.css
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:04:32[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:04:32[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /css/magnific-popup.css
+2023-12-19 13:04:32[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:04:32[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:04:32[info] : Client[76](10.16.80.26:33984) in, userCount:6
+2023-12-19 13:04:32[info] : Client[76] in!
+2023-12-19 13:04:32[info] : Client[71] quit!
+2023-12-19 13:04:32[info] : Client[71](10.16.80.26:32960) quit, UserCount:5
+2023-12-19 13:04:32[info] : Client[72] quit!
+2023-12-19 13:04:32[info] : Client[70] quit!
+2023-12-19 13:04:32[info] : Client[72](10.16.80.26:33216) quit, UserCount:4
+2023-12-19 13:04:32[info] : Client[70](10.16.80.26:32704) quit, UserCount:3
+2023-12-19 13:04:32[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /css/font-awesome.min.css
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:04:32[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:04:32[info] : Client[73] quit!
+2023-12-19 13:04:32[info] : Client[73](10.16.80.26:33472) quit, UserCount:2
+2023-12-19 13:04:32[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /js/jquery.js
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:04:32[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:04:32[info] : Client[76] quit!
+2023-12-19 13:04:32[info] : Client[76](10.16.80.26:33984) quit, UserCount:1
+2023-12-19 13:04:32[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /css/style.css
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:04:32[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:04:32[info] : Client[70](10.16.80.26:34240) in, userCount:2
+2023-12-19 13:04:32[info] : Client[70] in!
+2023-12-19 13:04:32[info] : Client[71](10.16.80.26:34496) in, userCount:3
+2023-12-19 13:04:32[info] : Client[74] quit!
+2023-12-19 13:04:32[info] : Client[71] in!
+2023-12-19 13:04:32[info] : Client[74](10.16.80.26:33728) quit, UserCount:2
+2023-12-19 13:04:32[info] : Client[72](10.16.80.26:34752) in, userCount:3
+2023-12-19 13:04:32[info] : Client[72] in!
+2023-12-19 13:04:32[info] : Client[73](10.16.80.26:35008) in, userCount:4
+2023-12-19 13:04:32[info] : Client[73] in!
+2023-12-19 13:04:32[info] : Client[74](10.16.80.26:35264) in, userCount:5
+2023-12-19 13:04:32[info] : Client[74] in!
+2023-12-19 13:04:32[info] : Client[75](10.16.80.26:35520) in, userCount:6
+2023-12-19 13:04:32[info] : Client[75] in!
+2023-12-19 13:04:32[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /js/login.js
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:04:32[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:04:32[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /js/bootstrap.min.js
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:04:32[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:04:32[info] : Client[71] quit!
+2023-12-19 13:04:32[info] : Client[71](10.16.80.26:34496) quit, UserCount:5
+2023-12-19 13:04:32[info] : Client[72] quit!
+2023-12-19 13:04:32[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /images/avatar.jpg
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:04:32[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:04:32[info] : Client[70] quit!
+2023-12-19 13:04:32[info] : Client[72](10.16.80.26:34752) quit, UserCount:4
+2023-12-19 13:04:32[info] : Client[70](10.16.80.26:34240) quit, UserCount:3
+2023-12-19 13:04:32[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:04:32[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:04:32[info] : Client[70](10.16.80.26:35776) in, userCount:4
+2023-12-19 13:04:32[info] : Client[70] in!
+2023-12-19 13:04:32[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /js/smoothscroll.js
+2023-12-19 13:04:32[info] : Client[74] quit!
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:04:32[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:04:32[info] : Client[74](10.16.80.26:35264) quit, UserCount:3
+2023-12-19 13:04:32[info] : Client[73] quit!
+2023-12-19 13:04:32[info] : Client[73](10.16.80.26:35008) quit, UserCount:2
+2023-12-19 13:04:32[info] : Client[71](10.16.80.26:36032) in, userCount:3
+2023-12-19 13:04:32[info] : Client[71] in!
+2023-12-19 13:04:32[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /js/magnific-popup-options.js
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:04:32[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:04:32[info] : Client[75] quit!
+2023-12-19 13:04:32[info] : Client[75](10.16.80.26:35520) quit, UserCount:2
+2023-12-19 13:04:32[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /js/wow.min.js
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:04:32[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:04:32[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /js/custom.js
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:04:32[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:04:32[info] : Client[71] quit!
+2023-12-19 13:04:32[info] : Client[71](10.16.80.26:36032) quit, UserCount:1
+2023-12-19 13:04:32[info] : Client[70] quit!
+2023-12-19 13:04:32[info] : Client[70](10.16.80.26:35776) quit, UserCount:0
+2023-12-19 13:04:32[info] : Client[70](10.16.80.26:36288) in, userCount:1
+2023-12-19 13:04:32[info] : Client[70] in!
+2023-12-19 13:04:32[info] : Client[71](10.16.80.26:36544) in, userCount:2
+2023-12-19 13:04:32[info] : Client[71] in!
+2023-12-19 13:04:32[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:04:32[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:04:32[info] : Client[70] quit!
+2023-12-19 13:04:32[info] : Client[70](10.16.80.26:36288) quit, UserCount:1
+2023-12-19 13:04:32[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 13:04:32[debug]: /images/favicon.ico
+2023-12-19 13:04:32[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 13:04:32[debug]: file size: 60990, 2 to 61075
+2023-12-19 13:04:32[info] : Client[71] quit!
+2023-12-19 13:04:32[info] : Client[71](10.16.80.26:36544) quit, UserCount:0
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:37056) in, userCount:1
+2023-12-19 13:04:33[info] : Client[70] in!
+2023-12-19 13:04:33[info] : Client[71](10.16.80.26:37312) in, userCount:2
+2023-12-19 13:04:33[info] : Client[71] in!
+2023-12-19 13:04:33[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /index.html
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:04:33[debug]: file size: 3342, 2 to 3478
+2023-12-19 13:04:33[info] : Client[72](10.16.80.26:37568) in, userCount:3
+2023-12-19 13:04:33[info] : Client[72] in!
+2023-12-19 13:04:33[info] : Client[73](10.16.80.26:37824) in, userCount:4
+2023-12-19 13:04:33[info] : Client[73] in!
+2023-12-19 13:04:33[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /css/bootstrap.min.css
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:04:33[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:04:33[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /css/animate.css
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:04:33[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:04:33[info] : Client[74](10.16.80.26:38080) in, userCount:5
+2023-12-19 13:04:33[info] : Client[74] in!
+2023-12-19 13:04:33[info] : Client[75](10.16.80.26:38336) in, userCount:6
+2023-12-19 13:04:33[info] : Client[75] in!
+2023-12-19 13:04:33[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /css/magnific-popup.css
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:04:33[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:04:33[info] : Client[71] quit!
+2023-12-19 13:04:33[info] : Client[71](10.16.80.26:37312) quit, UserCount:5
+2023-12-19 13:04:33[info] : Client[70] quit!
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:37056) quit, UserCount:4
+2023-12-19 13:04:33[info] : Client[72] quit!
+2023-12-19 13:04:33[info] : Client[72](10.16.80.26:37568) quit, UserCount:3
+2023-12-19 13:04:33[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /js/jquery.js
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:04:33[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:04:33[info] : Client[75] quit!
+2023-12-19 13:04:33[info] : Client[75](10.16.80.26:38336) quit, UserCount:2
+2023-12-19 13:04:33[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /css/style.css
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:04:33[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:04:33[info] : Client[74] quit!
+2023-12-19 13:04:33[info] : Client[74](10.16.80.26:38080) quit, UserCount:1
+2023-12-19 13:04:33[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /css/font-awesome.min.css
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:04:33[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:04:33[info] : Client[73] quit!
+2023-12-19 13:04:33[info] : Client[73](10.16.80.26:37824) quit, UserCount:0
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:38592) in, userCount:1
+2023-12-19 13:04:33[info] : Client[70] in!
+2023-12-19 13:04:33[info] : Client[71](10.16.80.26:38848) in, userCount:2
+2023-12-19 13:04:33[info] : Client[71] in!
+2023-12-19 13:04:33[info] : Client[72](10.16.80.26:39104) in, userCount:3
+2023-12-19 13:04:33[info] : Client[72] in!
+2023-12-19 13:04:33[info] : Client[73](10.16.80.26:39360) in, userCount:4
+2023-12-19 13:04:33[info] : Client[73] in!
+2023-12-19 13:04:33[info] : Client[74](10.16.80.26:39616) in, userCount:5
+2023-12-19 13:04:33[info] : Client[74] in!
+2023-12-19 13:04:33[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /images/avatar.jpg
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:04:33[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:04:33[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /js/bootstrap.min.js
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:04:33[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:04:33[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /js/smoothscroll.js
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:04:33[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:04:33[info] : Client[75](10.16.80.26:39872) in, userCount:6
+2023-12-19 13:04:33[info] : Client[75] in!
+2023-12-19 13:04:33[info] : Client[72] quit!
+2023-12-19 13:04:33[info] : Client[70] quit!
+2023-12-19 13:04:33[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /js/login.js
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:04:33[info] : Client[73] quit!
+2023-12-19 13:04:33[info] : Client[73](10.16.80.26:39360) quit, UserCount:4
+2023-12-19 13:04:33[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:38592) quit, UserCount:3
+2023-12-19 13:04:33[info] : Client[72](10.16.80.26:39104) quit, UserCount:3
+2023-12-19 13:04:33[info] : Client[71] quit!
+2023-12-19 13:04:33[info] : Client[71](10.16.80.26:38848) quit, UserCount:2
+2023-12-19 13:04:33[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:04:33[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:04:33[info] : Client[74] quit!
+2023-12-19 13:04:33[info] : Client[74](10.16.80.26:39616) quit, UserCount:1
+2023-12-19 13:04:33[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /js/magnific-popup-options.js
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:04:33[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:40128) in, userCount:2
+2023-12-19 13:04:33[info] : Client[70] in!
+2023-12-19 13:04:33[info] : Client[75] quit!
+2023-12-19 13:04:33[info] : Client[75](10.16.80.26:39872) quit, UserCount:1
+2023-12-19 13:04:33[info] : Client[71](10.16.80.26:40384) in, userCount:2
+2023-12-19 13:04:33[info] : Client[71] in!
+2023-12-19 13:04:33[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /js/wow.min.js
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:04:33[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /js/custom.js
+2023-12-19 13:04:33[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:04:33[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:04:33[info] : Client[70] quit!
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:40128) quit, UserCount:1
+2023-12-19 13:04:33[info] : Client[71] quit!
+2023-12-19 13:04:33[info] : Client[71](10.16.80.26:40384) quit, UserCount:0
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:40640) in, userCount:1
+2023-12-19 13:04:33[info] : Client[70] in!
+2023-12-19 13:04:33[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /images/favicon.ico
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 13:04:33[debug]: file size: 60990, 2 to 61075
+2023-12-19 13:04:33[info] : Client[70] quit!
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:40640) quit, UserCount:0
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:40896) in, userCount:1
+2023-12-19 13:04:33[info] : Client[70] in!
+2023-12-19 13:04:33[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:04:33[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:04:33[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:04:33[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:04:33[info] : Client[70] quit!
+2023-12-19 13:04:33[info] : Client[70](10.16.80.26:40896) quit, UserCount:0
+2023-12-19 13:05:19[info] : Server init
+2023-12-19 13:05:19[info] : Port:8876 , OpenLinger: false
+2023-12-19 13:05:19[info] : Listen Mode:ET, OpenConn Mode:ET
+2023-12-19 13:05:19[info] : LogSys level:2
+2023-12-19 13:05:19[info] : srcDir:/home/kali/PTH/Web_Blog/resources/
+2023-12-19 13:05:19[info] : SqlConnPool num:30, ThreadPool num:50
+2023-12-19 13:05:19[info] : Server start!
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:50624) in, userCount:1
+2023-12-19 13:05:21[info] : Client[70] in!
+2023-12-19 13:05:21[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /index.html
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//index.html
+2023-12-19 13:05:21[debug]: file size: 3342, 2 to 3478
+2023-12-19 13:05:21[info] : Client[71](10.16.80.26:50880) in, userCount:2
+2023-12-19 13:05:21[info] : Client[71] in!
+2023-12-19 13:05:21[info] : Client[72](10.16.80.26:51136) in, userCount:3
+2023-12-19 13:05:21[info] : Client[72] in!
+2023-12-19 13:05:21[info] : Client[73](10.16.80.26:51392) in, userCount:4
+2023-12-19 13:05:21[info] : Client[73] in!
+2023-12-19 13:05:21[info] : Client[74](10.16.80.26:51648) in, userCount:5
+2023-12-19 13:05:21[info] : Client[74] in!
+2023-12-19 13:05:21[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /css/magnific-popup.css
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-19 13:05:21[debug]: file size: 6951, 2 to 7034
+2023-12-19 13:05:21[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /css/font-awesome.min.css
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-19 13:05:21[debug]: file size: 27392, 2 to 27476
+2023-12-19 13:05:21[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /css/animate.css
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//css/animate.css
+2023-12-19 13:05:21[info] : Client[75](10.16.80.26:51904) in, userCount:6
+2023-12-19 13:05:21[info] : Client[75] in!
+2023-12-19 13:05:21[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /css/bootstrap.min.css
+2023-12-19 13:05:21[debug]: file size: 72922, 2 to 73006
+2023-12-19 13:05:21[info] : Client[73] quit!
+2023-12-19 13:05:21[info] : Client[72] quit!
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-19 13:05:21[info] : Client[72](10.16.80.26:51136) quit, UserCount:4
+2023-12-19 13:05:21[info] : Client[73](10.16.80.26:51392) quit, UserCount:4
+2023-12-19 13:05:21[debug]: file size: 121260, 2 to 121345
+2023-12-19 13:05:21[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /css/style.css
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//css/style.css
+2023-12-19 13:05:21[debug]: file size: 9807, 2 to 9890
+2023-12-19 13:05:21[info] : Client[71] quit!
+2023-12-19 13:05:21[info] : Client[71](10.16.80.26:50880) quit, UserCount:3
+2023-12-19 13:05:21[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /js/jquery.js
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.js
+2023-12-19 13:05:21[debug]: file size: 85658, 2 to 85749
+2023-12-19 13:05:21[info] : Client[74] quit!
+2023-12-19 13:05:21[info] : Client[74](10.16.80.26:51648) quit, UserCount:2
+2023-12-19 13:05:21[info] : Client[75] quit!
+2023-12-19 13:05:21[info] : Client[75](10.16.80.26:51904) quit, UserCount:1
+2023-12-19 13:05:21[info] : Client[70] quit!
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:50624) quit, UserCount:0
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:52160) in, userCount:1
+2023-12-19 13:05:21[info] : Client[70] in!
+2023-12-19 13:05:21[info] : Client[71](10.16.80.26:52416) in, userCount:2
+2023-12-19 13:05:21[info] : Client[71] in!
+2023-12-19 13:05:21[info] : Client[72](10.16.80.26:52672) in, userCount:3
+2023-12-19 13:05:21[info] : Client[72] in!
+2023-12-19 13:05:21[info] : Client[73](10.16.80.26:52928) in, userCount:4
+2023-12-19 13:05:21[info] : Client[73] in!
+2023-12-19 13:05:21[info] : Client[74](10.16.80.26:53184) in, userCount:5
+2023-12-19 13:05:21[info] : Client[74] in!
+2023-12-19 13:05:21[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /js/bootstrap.min.js
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-19 13:05:21[debug]: file size: 36868, 2 to 36959
+2023-12-19 13:05:21[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /js/login.js
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//js/login.js
+2023-12-19 13:05:21[debug]: file size: 2036, 2 to 2126
+2023-12-19 13:05:21[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /js/smoothscroll.js
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-19 13:05:21[debug]: file size: 4474, 2 to 4564
+2023-12-19 13:05:21[info] : Client[75](10.16.80.26:53440) in, userCount:6
+2023-12-19 13:05:21[info] : Client[75] in!
+2023-12-19 13:05:21[info] : Client[71] quit!
+2023-12-19 13:05:21[info] : Client[71](10.16.80.26:52416) quit, UserCount:5
+2023-12-19 13:05:21[info] : Client[73] quit!
+2023-12-19 13:05:21[info] : Client[73](10.16.80.26:52928) quit, UserCount:4
+2023-12-19 13:05:21[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /images/avatar.jpg
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-19 13:05:21[debug]: file size: 10835, 2 to 10920
+2023-12-19 13:05:21[info] : Client[72] quit!
+2023-12-19 13:05:21[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /js/jquery.magnific-popup.min.js
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-19 13:05:21[debug]: file size: 20932, 2 to 21023
+2023-12-19 13:05:21[info] : Client[74] quit!
+2023-12-19 13:05:21[info] : Client[74](10.16.80.26:53184) quit, UserCount:2
+2023-12-19 13:05:21[info] : Client[70] quit!
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:52160) quit, UserCount:1
+2023-12-19 13:05:21[info] : Client[72](10.16.80.26:52672) quit, UserCount:1
+2023-12-19 13:05:21[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /js/magnific-popup-options.js
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-19 13:05:21[debug]: file size: 1069, 2 to 1159
+2023-12-19 13:05:21[info] : Client[75] quit!
+2023-12-19 13:05:21[info] : Client[75](10.16.80.26:53440) quit, UserCount:0
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:53696) in, userCount:1
+2023-12-19 13:05:21[info] : Client[70] in!
+2023-12-19 13:05:21[info] : Client[71](10.16.80.26:53952) in, userCount:2
+2023-12-19 13:05:21[info] : Client[71] in!
+2023-12-19 13:05:21[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /js/wow.min.js
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-19 13:05:21[debug]: file size: 7082, 2 to 7172
+2023-12-19 13:05:21[info] : Client[70] quit!
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:53696) quit, UserCount:1
+2023-12-19 13:05:21[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /js/custom.js
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//js/custom.js
+2023-12-19 13:05:21[debug]: file size: 1047, 2 to 1137
+2023-12-19 13:05:21[info] : Client[71] quit!
+2023-12-19 13:05:21[info] : Client[71](10.16.80.26:53952) quit, UserCount:0
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:54208) in, userCount:1
+2023-12-19 13:05:21[info] : Client[70] in!
+2023-12-19 13:05:21[debug]: [GET],[/images/favicon.ico],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /images/favicon.ico
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//images/favicon.ico
+2023-12-19 13:05:21[debug]: file size: 60990, 2 to 61075
+2023-12-19 13:05:21[info] : Client[70] quit!
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:54208) quit, UserCount:0
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:54464) in, userCount:1
+2023-12-19 13:05:21[info] : Client[70] in!
+2023-12-19 13:05:21[debug]: [GET],[/css/bootstrap.min.css.map],[HTTP/1.1]
+2023-12-19 13:05:21[debug]: /css/bootstrap.min.css.map
+2023-12-19 13:05:21[debug]: file path /home/kali/PTH/Web_Blog/resources//404.html
+2023-12-19 13:05:21[debug]: file size: 3057, 2 to 3162
+2023-12-19 13:05:21[info] : Client[70] quit!
+2023-12-19 13:05:21[info] : Client[70](10.16.80.26:54464) quit, UserCount:0

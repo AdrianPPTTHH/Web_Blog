@@ -27,8 +27,12 @@ void HttpRequest::Init(){
 }
 
 bool HttpRequest::IsKeepAlive() const{
-    if(header_.count("Connection") == 1 ){
-        return header_.find("Connection")->second == "keep-alive" && version_ == "1.1";
+    size_t index = path_.find_last_of(".");
+    std::string extension = path_.substr(index + 1);
+
+    // 防止css和js也keep-alive 出现解析顺序错误
+    if(header_.count("Connection") == 1 && (extension == "md" || extension == "html" || extension == "mp4") ){
+        return header_.find("Connection")->second == "keep-alive" && (version_ == "1.1" || version_ == "HTTP/1.1");
     }
     return false;
 }
