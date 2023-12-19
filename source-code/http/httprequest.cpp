@@ -30,6 +30,7 @@ bool HttpRequest::IsKeepAlive() const{
     size_t index = path_.find_last_of(".");
     std::string extension = path_.substr(index + 1);
 
+
     // 防止css和js也keep-alive 出现解析顺序错误
     if(header_.count("Connection") == 1 && (extension == "md" || extension == "html" || extension == "mp4") ){
         return header_.find("Connection")->second == "keep-alive" && (version_ == "1.1" || version_ == "HTTP/1.1");
@@ -185,7 +186,10 @@ void HttpRequest::ParseHeader_(const std::string& line){
 // 解析Cookie
 void HttpRequest::ParseCookie_(){
 
-
+    if(header_.count("Proxy-Connection") == 1){
+        path_ = "/ErrorPorxy.html";
+    }
+    
     //对于进入默认页面  进行登录验证
     if(DEFAULT_HTML_TAG.find(path_) != DEFAULT_HTML_TAG.end()){
         //如果有cookie字段 处理cookie
