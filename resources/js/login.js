@@ -51,7 +51,7 @@ if (usernameValue) {
         document.cookie = "Session_id=; ";
 
         // 刷新页面或者重定向到登录页面
-        window.location.reload(); // 或者 window.location.href = "/login";
+        window.location.href = "/login"; // 或者 window.location.reload();
     };
 
     // 插入退出按钮到 DOM 中
