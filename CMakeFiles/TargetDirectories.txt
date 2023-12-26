@@ -1,0 +1,3 @@
+/home/ubuntu/PTH/Web_Blog/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/PTH/Web_Blog/CMakeFiles/edit_cache.dir
+/home/ubuntu/PTH/Web_Blog/CMakeFiles/run.exe.dir

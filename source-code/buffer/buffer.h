@@ -13,7 +13,7 @@ class Buffer{
 public:
 
     // 构造函数 初始化buffer大小
-    Buffer(int initBufferSize = 2048);
+    Buffer(int initBufferSize = 4096);
     ~Buffer() = default;
     
     // [已读数据][未读数据][未使用空间]

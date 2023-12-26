@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.26.0)
+cmake_minimum_required(VERSION 3.16.0)
 
 project(webserver)
 
@@ -33,3 +33,4 @@ target_link_libraries(run.exe mysqlclient)
 target_link_libraries(run.exe hiredis)
 target_link_libraries(run.exe libcmark.so.0.30.3)
 target_link_libraries(run.exe pthread)
+target_link_libraries(run.exe ${CMAKE_DL_LIBS} z)

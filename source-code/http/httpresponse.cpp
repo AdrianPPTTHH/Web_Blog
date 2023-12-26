@@ -93,7 +93,8 @@ void HttpResponse::MakeResponse(Buffer & buff){
 
 // 返回文件内容 映射到 内存的指针
 char * HttpResponse::File(){
-    return mmFile_;
+    // return mmFile_;
+    return  const_cast<char*>(zip_content.data());
 }
 
 
@@ -124,6 +125,9 @@ void HttpResponse::AddStateLine_(Buffer& buff){
 
 
 void HttpResponse::AddHeader_(Buffer & buff){
+    buff.Append("Content-Encoding: gzip\r\n");
+    buff.Append("Vary: Accept-Encoding\r\n");
+
     buff.Append("Connection:");
     if(isKeepAlive_){
         buff.Append("keep-alive\r\n");
@@ -175,8 +179,13 @@ void HttpResponse::AddContent_(Buffer & buff){
         mmFile_ = (char*)mmRet;
 
         file_len = mmFileStat_.st_size;
+
+        zip_content = compressData(mmFile_, file_len);
+
+        file_len = zip_content.size();
         
         buff.Append("Content-length: " + std::to_string(file_len) + "\r\n\r\n");
+
 
     }else{
         char file_content[mmFileStat_.st_size];
@@ -215,11 +224,16 @@ void HttpResponse::AddContent_(Buffer & buff){
         close(h_fd);
         close(e_fd);
 
-        mmFile_ = html_all.data();
+        mmFile_ = const_cast<char *>(html_all.data());
 
-        file_len = html_all.size();
+        file_len = mmFileStat_.st_size;
 
+        zip_content = compressData(mmFile_, html_all.size());
+
+        file_len = zip_content.size();
+        
         buff.Append("Content-length: " + std::to_string(file_len) + "\r\n\r\n");
+
         cmark_node_free(node);
     }
 
@@ -275,4 +289,42 @@ void HttpResponse::UnmapFile(){
         munmap(mmFile_, mmFileStat_.st_size);
         mmFile_ = nullptr;
     }
+}
+
+
+
+std::string HttpResponse::compressData(const char* data, size_t size) {
+    z_stream zs;
+    memset(&zs, 0, sizeof(zs));
+
+    if (deflateInit2(&zs, Z_DEFAULT_COMPRESSION, Z_DEFLATED, 15 | 16, 8, Z_DEFAULT_STRATEGY) != Z_OK) {
+        return "";
+    }
+
+    zs.next_in = (Bytef*)data;
+    zs.avail_in = size;
+
+    int ret;
+    char outbuffer[32768];
+    std::string outstring;
+
+    do {
+        zs.next_out = reinterpret_cast<Bytef*>(outbuffer);
+        zs.avail_out = sizeof(outbuffer);
+
+        ret = deflate(&zs, Z_FINISH);
+
+        if (outstring.size() < zs.total_out) {
+            outstring.append(outbuffer, zs.total_out - outstring.size());
+        }
+
+    } while (ret == Z_OK);
+
+    deflateEnd(&zs);
+
+    if (ret != Z_STREAM_END) {
+        return "";
+    }
+
+    return outstring;
 }

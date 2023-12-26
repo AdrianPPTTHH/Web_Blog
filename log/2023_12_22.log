@@ -1,0 +1,662 @@
+2023-12-22 00:09:52[info] : Client[66](106.84.187.230:18032) in, userCount:1
+2023-12-22 00:09:52[info] : Client[66] in!
+2023-12-22 00:09:52[info] : Client[67](106.84.187.230:43887) in, userCount:2
+2023-12-22 00:09:52[info] : Client[67] in!
+2023-12-22 00:09:53[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-22 00:09:53[debug]: /index.html
+2023-12-22 00:09:53[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//index.html
+2023-12-22 00:09:53[debug]: file size: 1027, 2 to 1210
+2023-12-22 00:09:53[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-22 00:09:53[debug]: /css/bootstrap.min.css
+2023-12-22 00:09:53[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-22 00:09:53[debug]: file size: 19747, 2 to 19939
+2023-12-22 00:09:53[info] : Client[66] quit!
+2023-12-22 00:09:53[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-22 00:09:53[debug]: /css/animate.css
+2023-12-22 00:09:53[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/animate.css
+2023-12-22 00:09:53[debug]: file size: 4167, 2 to 4297
+2023-12-22 00:09:53[info] : Client[67] quit!
+2023-12-22 00:09:53[info] : Client[66](106.84.187.230:18288) in, userCount:1
+2023-12-22 00:09:53[info] : Client[66] in!
+2023-12-22 00:09:53[info] : Client[67](106.84.187.230:44143) in, userCount:2
+2023-12-22 00:09:53[info] : Client[67] in!
+2023-12-22 00:09:53[info] : Client[68](106.84.187.230:18800) in, userCount:3
+2023-12-22 00:09:53[info] : Client[68] in!
+2023-12-22 00:09:53[info] : Client[69](106.84.187.230:18544) in, userCount:4
+2023-12-22 00:09:53[info] : Client[69] in!
+2023-12-22 00:09:53[info] : Client[67](106.84.187.230:44143) quit, UserCount:4
+2023-12-22 00:09:53[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-22 00:09:53[debug]: /css/style.css
+2023-12-22 00:09:53[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/style.css
+2023-12-22 00:09:53[debug]: file size: 2240, 2 to 2370
+2023-12-22 00:09:53[info] : Client[67] quit!
+2023-12-22 00:09:53[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-22 00:09:53[debug]: /css/magnific-popup.css
+2023-12-22 00:09:53[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-22 00:09:53[debug]: file size: 1816, 2 to 2007
+2023-12-22 00:09:53[info] : Client[66] quit!
+2023-12-22 00:09:53[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-22 00:09:53[debug]: /js/jquery.js
+2023-12-22 00:09:53[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.js
+2023-12-22 00:09:53[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-22 00:09:53[debug]: /css/font-awesome.min.css
+2023-12-22 00:09:53[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-22 00:09:53[debug]: file size: 6212, 2 to 6342
+2023-12-22 00:09:53[info] : Client[69] quit!
+2023-12-22 00:09:53[debug]: file size: 29920, 2 to 30058
+2023-12-22 00:09:53[info] : Client[68] quit!
+2023-12-22 00:09:53[info] : Client[66](106.84.187.230:18288) quit, UserCount:0
+2023-12-22 00:09:53[info] : Client[66](106.84.187.230:44399) in, userCount:1
+2023-12-22 00:09:53[info] : Client[66] in!
+2023-12-22 00:09:53[info] : Client[67](106.84.187.230:19056) in, userCount:2
+2023-12-22 00:09:53[info] : Client[67] in!
+2023-12-22 00:09:53[info] : Client[67](106.84.187.230:19056) quit, UserCount:2
+2023-12-22 00:09:53[info] : Client[66](106.84.187.230:44399) quit, UserCount:2
+2023-12-22 00:09:53[info] : Client[69](106.84.187.230:18544) quit, UserCount:2
+2023-12-22 00:09:53[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-22 00:09:53[debug]: /js/login.js
+2023-12-22 00:09:53[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/login.js
+2023-12-22 00:09:53[debug]: file size: 882, 2 to 1079
+2023-12-22 00:09:53[info] : Client[66] quit!
+2023-12-22 00:09:53[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-22 00:09:53[debug]: /js/bootstrap.min.js
+2023-12-22 00:09:53[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-22 00:09:53[debug]: file size: 9764, 2 to 9901
+2023-12-22 00:09:53[info] : Client[67] quit!
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:44655) in, userCount:1
+2023-12-22 00:09:54[info] : Client[66] in!
+2023-12-22 00:09:54[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-22 00:09:54[debug]: /js/smoothscroll.js
+2023-12-22 00:09:54[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-22 00:09:54[debug]: file size: 2110, 2 to 2308
+2023-12-22 00:09:54[info] : Client[66] quit!
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:19312) in, userCount:1
+2023-12-22 00:09:54[info] : Client[66] in!
+2023-12-22 00:09:54[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-22 00:09:54[debug]: /js/jquery.magnific-popup.min.js
+2023-12-22 00:09:54[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-22 00:09:54[debug]: file size: 7585, 2 to 7783
+2023-12-22 00:09:54[info] : Client[66] quit!
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:19312) quit, UserCount:0
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:44911) in, userCount:1
+2023-12-22 00:09:54[info] : Client[67](106.84.187.230:19056) quit, UserCount:1
+2023-12-22 00:09:54[info] : Client[66] in!
+2023-12-22 00:09:54[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-22 00:09:54[debug]: /js/magnific-popup-options.js
+2023-12-22 00:09:54[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-22 00:09:54[info] : Client[68](106.84.187.230:18800) quit, UserCount:1
+2023-12-22 00:09:54[info] : Client[68](106.84.187.230:45167) in, userCount:2
+2023-12-22 00:09:54[info] : Client[68] in!
+2023-12-22 00:09:54[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-22 00:09:54[debug]: /js/wow.min.js
+2023-12-22 00:09:54[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-22 00:09:54[debug]: file size: 520, 2 to 717
+2023-12-22 00:09:54[info] : Client[66] quit!
+2023-12-22 00:09:54[debug]: file size: 2431, 2 to 2568
+2023-12-22 00:09:54[info] : Client[68] quit!
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:44911) quit, UserCount:0
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:44911) quit, UserCount:0
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:45679) in, userCount:1
+2023-12-22 00:09:54[info] : Client[66] in!
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:45679) quit, UserCount:1
+2023-12-22 00:09:54[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-22 00:09:54[debug]: /js/custom.js
+2023-12-22 00:09:54[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/custom.js
+2023-12-22 00:09:54[debug]: file size: 464, 2 to 661
+2023-12-22 00:09:54[info] : Client[66] quit!
+2023-12-22 00:09:54[info] : Client[68](106.84.187.230:45167) quit, UserCount:0
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:45679) quit, UserCount:0
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:19824) in, userCount:1
+2023-12-22 00:09:54[info] : Client[66] in!
+2023-12-22 00:09:54[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-22 00:09:54[debug]: /images/avatar.jpg
+2023-12-22 00:09:54[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-22 00:09:54[debug]: file size: 10327, 2 to 10520
+2023-12-22 00:09:54[info] : Client[66] quit!
+2023-12-22 00:09:54[info] : Client[66](106.84.187.230:19824) quit, UserCount:0
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:46191) in, userCount:1
+2023-12-22 00:09:59[info] : Client[66] in!
+2023-12-22 00:09:59[info] : Client[67](106.84.187.230:21871) in, userCount:2
+2023-12-22 00:09:59[info] : Client[67] in!
+2023-12-22 00:09:59[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /index.html
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//index.html
+2023-12-22 00:09:59[debug]: file size: 1027, 2 to 1271
+2023-12-22 00:09:59[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /css/bootstrap.min.css
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-22 00:09:59[debug]: file size: 19747, 2 to 19878
+2023-12-22 00:09:59[info] : Client[67] quit!
+2023-12-22 00:09:59[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /css/animate.css
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/animate.css
+2023-12-22 00:09:59[debug]: file size: 4167, 2 to 4358
+2023-12-22 00:09:59[info] : Client[66] quit!
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:22127) in, userCount:1
+2023-12-22 00:09:59[info] : Client[66] in!
+2023-12-22 00:09:59[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /css/magnific-popup.css
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-22 00:09:59[debug]: file size: 1816, 2 to 2007
+2023-12-22 00:09:59[info] : Client[66] quit!
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:22383) in, userCount:1
+2023-12-22 00:09:59[info] : Client[66] in!
+2023-12-22 00:09:59[info] : Client[67](106.84.187.230:46447) in, userCount:2
+2023-12-22 00:09:59[info] : Client[67] in!
+2023-12-22 00:09:59[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-22 00:09:59[info] : Client[68](106.84.187.230:46703) in, userCount:3
+2023-12-22 00:09:59[debug]: /css/style.css
+2023-12-22 00:09:59[info] : Client[68] in!
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/style.css
+2023-12-22 00:09:59[debug]: file size: 2240, 2 to 2431
+2023-12-22 00:09:59[info] : Client[66] quit!
+2023-12-22 00:09:59[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /css/font-awesome.min.css
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:22383) quit, UserCount:2
+2023-12-22 00:09:59[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /js/jquery.js
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.js
+2023-12-22 00:09:59[debug]: file size: 29920, 2 to 30058
+2023-12-22 00:09:59[info] : Client[68] quit!
+2023-12-22 00:09:59[debug]: file size: 6212, 2 to 6342
+2023-12-22 00:09:59[info] : Client[67] quit!
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:22383) quit, UserCount:0
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:22383) quit, UserCount:0
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:22639) in, userCount:1
+2023-12-22 00:09:59[info] : Client[66] in!
+2023-12-22 00:09:59[info] : Client[67](106.84.187.230:46447) quit, UserCount:1
+2023-12-22 00:09:59[debug]: [GET],[/js/login.js],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /js/login.js
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/login.js
+2023-12-22 00:09:59[debug]: file size: 882, 2 to 1079
+2023-12-22 00:09:59[info] : Client[66] quit!
+2023-12-22 00:09:59[info] : Client[67](106.84.187.230:46447) quit, UserCount:0
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:46959) in, userCount:1
+2023-12-22 00:09:59[info] : Client[66] in!
+2023-12-22 00:09:59[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /js/bootstrap.min.js
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-22 00:09:59[debug]: file size: 9764, 2 to 9962
+2023-12-22 00:09:59[info] : Client[66] quit!
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:22895) in, userCount:1
+2023-12-22 00:09:59[info] : Client[66] in!
+2023-12-22 00:09:59[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /js/smoothscroll.js
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-22 00:09:59[debug]: file size: 2110, 2 to 2308
+2023-12-22 00:09:59[info] : Client[66] quit!
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:23151) in, userCount:1
+2023-12-22 00:09:59[info] : Client[66] in!
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:23151) quit, UserCount:1
+2023-12-22 00:09:59[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /js/jquery.magnific-popup.min.js
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-22 00:09:59[debug]: file size: 7585, 2 to 7783
+2023-12-22 00:09:59[info] : Client[66] quit!
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:23407) in, userCount:1
+2023-12-22 00:09:59[info] : Client[66] in!
+2023-12-22 00:09:59[info] : Client[67](106.84.187.230:47215) in, userCount:2
+2023-12-22 00:09:59[info] : Client[67] in!
+2023-12-22 00:09:59[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /js/wow.min.js
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-22 00:09:59[debug]: file size: 2431, 2 to 2629
+2023-12-22 00:09:59[info] : Client[66] quit!
+2023-12-22 00:09:59[info] : Client[66](106.84.187.230:23407) quit, UserCount:1
+2023-12-22 00:09:59[info] : Client[68](106.84.187.230:46703) quit, UserCount:1
+2023-12-22 00:09:59[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-22 00:09:59[debug]: /js/magnific-popup-options.js
+2023-12-22 00:09:59[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-22 00:09:59[debug]: file size: 520, 2 to 656
+2023-12-22 00:09:59[info] : Client[67] quit!
+2023-12-22 00:10:00[info] : Client[66](106.84.187.230:23407) quit, UserCount:0
+2023-12-22 00:10:00[info] : Client[66](106.84.187.230:23407) quit, UserCount:0
+2023-12-22 00:10:00[info] : Client[66](106.84.187.230:47471) in, userCount:1
+2023-12-22 00:10:00[info] : Client[66] in!
+2023-12-22 00:10:00[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-22 00:10:00[debug]: /js/custom.js
+2023-12-22 00:10:00[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/custom.js
+2023-12-22 00:10:00[debug]: file size: 464, 2 to 661
+2023-12-22 00:10:00[info] : Client[66] quit!
+2023-12-22 00:10:00[info] : Client[67](106.84.187.230:47215) quit, UserCount:0
+2023-12-22 00:10:00[info] : Client[66](106.84.187.230:47471) quit, UserCount:0
+2023-12-22 00:10:00[info] : Client[66](106.84.187.230:47471) quit, UserCount:0
+2023-12-22 00:10:00[info] : Client[66](106.84.187.230:23663) in, userCount:1
+2023-12-22 00:10:00[info] : Client[66] in!
+2023-12-22 00:10:00[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-22 00:10:00[debug]: /images/avatar.jpg
+2023-12-22 00:10:00[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-22 00:10:00[debug]: file size: 10327, 2 to 10520
+2023-12-22 00:10:00[info] : Client[66] quit!
+2023-12-22 00:10:00[info] : Client[66](106.84.187.230:23663) quit, UserCount:0
+2023-12-22 00:10:04[info] : Client[66](106.84.187.230:47727) in, userCount:1
+2023-12-22 00:10:04[info] : Client[66] in!
+2023-12-22 00:10:04[debug]: [GET],[/error.html],[HTTP/1.1]
+2023-12-22 00:10:04[debug]: /error.html
+2023-12-22 00:10:04[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//error.html
+2023-12-22 00:10:04[debug]: file size: 907, 2 to 1089
+2023-12-22 00:10:04[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-22 00:10:04[debug]: /css/bootstrap.min.css
+2023-12-22 00:10:04[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-22 00:10:04[debug]: file size: 19747, 2 to 19878
+2023-12-22 00:10:04[info] : Client[66] quit!
+2023-12-22 00:10:04[info] : Client[66](106.84.187.230:48239) in, userCount:1
+2023-12-22 00:10:04[info] : Client[66] in!
+2023-12-22 00:10:04[info] : Client[67](106.84.187.230:47983) in, userCount:2
+2023-12-22 00:10:04[info] : Client[67] in!
+2023-12-22 00:10:04[info] : Client[68](106.84.187.230:23919) in, userCount:3
+2023-12-22 00:10:04[info] : Client[68] in!
+2023-12-22 00:10:04[info] : Client[69](106.84.187.230:24175) in, userCount:4
+2023-12-22 00:10:04[info] : Client[69] in!
+2023-12-22 00:10:04[info] : Client[70](106.84.187.230:48495) in, userCount:5
+2023-12-22 00:10:04[info] : Client[70] in!
+2023-12-22 00:10:04[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-22 00:10:04[debug]: /js/jquery.js
+2023-12-22 00:10:04[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.js
+2023-12-22 00:10:04[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-22 00:10:04[debug]: /css/font-awesome.min.css
+2023-12-22 00:10:04[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-22 00:10:04[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-22 00:10:04[debug]: /css/magnific-popup.css
+2023-12-22 00:10:04[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-22 00:10:04[debug]: file size: 1816, 2 to 1946
+2023-12-22 00:10:04[debug]: file size: 6212, 2 to 6342
+2023-12-22 00:10:04[debug]: file size: 29920, 2 to 30058
+2023-12-22 00:10:04[info] : Client[67] quit!
+2023-12-22 00:10:04[info] : Client[68] quit!
+2023-12-22 00:10:04[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-22 00:10:04[debug]: /css/animate.css
+2023-12-22 00:10:04[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/animate.css
+2023-12-22 00:10:04[debug]: file size: 4167, 2 to 4297
+2023-12-22 00:10:04[info] : Client[66] quit!
+2023-12-22 00:10:04[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-22 00:10:04[debug]: /css/style.css
+2023-12-22 00:10:04[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/style.css
+2023-12-22 00:10:04[debug]: file size: 2240, 2 to 2370
+2023-12-22 00:10:04[info] : Client[69] quit!
+2023-12-22 00:10:04[info] : Client[70] quit!
+2023-12-22 00:10:04[info] : Client[66](106.84.187.230:48239) quit, UserCount:0
+2023-12-22 00:10:04[info] : Client[66](106.84.187.230:24431) in, userCount:1
+2023-12-22 00:10:04[info] : Client[66] in!
+2023-12-22 00:10:04[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-22 00:10:04[debug]: /js/bootstrap.min.js
+2023-12-22 00:10:04[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-22 00:10:04[info] : Client[67](106.84.187.230:47983) quit, UserCount:1
+2023-12-22 00:10:04[debug]: file size: 9764, 2 to 9901
+2023-12-22 00:10:04[info] : Client[66] quit!
+2023-12-22 00:10:04[info] : Client[68](106.84.187.230:23919) quit, UserCount:0
+2023-12-22 00:10:04[info] : Client[69](106.84.187.230:24175) quit, UserCount:0
+2023-12-22 00:10:04[info] : Client[70](106.84.187.230:48495) quit, UserCount:0
+2023-12-22 00:10:05[info] : Client[66](106.84.187.230:24431) quit, UserCount:0
+2023-12-22 00:10:05[info] : Client[66](106.84.187.230:48751) in, userCount:1
+2023-12-22 00:10:05[info] : Client[66] in!
+2023-12-22 00:10:05[info] : Client[66](106.84.187.230:48751) quit, UserCount:1
+2023-12-22 00:10:05[info] : Client[67](106.84.187.230:24943) in, userCount:2
+2023-12-22 00:10:05[info] : Client[67] in!
+2023-12-22 00:10:05[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-22 00:10:05[debug]: /js/smoothscroll.js
+2023-12-22 00:10:05[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-22 00:10:05[debug]: file size: 2110, 2 to 2247
+2023-12-22 00:10:05[info] : Client[66] quit!
+2023-12-22 00:10:05[info] : Client[66](106.84.187.230:25199) in, userCount:2
+2023-12-22 00:10:05[info] : Client[66] in!
+2023-12-22 00:10:05[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-22 00:10:05[debug]: /js/custom.js
+2023-12-22 00:10:05[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/custom.js
+2023-12-22 00:10:05[debug]: file size: 464, 2 to 600
+2023-12-22 00:10:05[info] : Client[68](106.84.187.230:49007) in, userCount:3
+2023-12-22 00:10:05[info] : Client[68] in!
+2023-12-22 00:10:05[info] : Client[69](106.84.187.230:24687) in, userCount:4
+2023-12-22 00:10:05[info] : Client[69] in!
+2023-12-22 00:10:05[info] : Client[67] quit!
+2023-12-22 00:10:05[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-22 00:10:05[debug]: /js/wow.min.js
+2023-12-22 00:10:05[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-22 00:10:05[debug]: file size: 2431, 2 to 2568
+2023-12-22 00:10:05[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-22 00:10:05[debug]: /js/jquery.magnific-popup.min.js
+2023-12-22 00:10:05[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-22 00:10:05[debug]: file size: 7585, 2 to 7722
+2023-12-22 00:10:05[info] : Client[66] quit!
+2023-12-22 00:10:05[info] : Client[69] quit!
+2023-12-22 00:10:05[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-22 00:10:05[debug]: /js/magnific-popup-options.js
+2023-12-22 00:10:05[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-22 00:10:05[debug]: file size: 520, 2 to 656
+2023-12-22 00:10:05[info] : Client[68] quit!
+2023-12-22 00:10:05[info] : Client[66](106.84.187.230:25199) quit, UserCount:0
+2023-12-22 00:10:05[info] : Client[67](106.84.187.230:24943) quit, UserCount:0
+2023-12-22 00:10:05[info] : Client[68](106.84.187.230:49007) quit, UserCount:0
+2023-12-22 00:10:05[info] : Client[69](106.84.187.230:24687) quit, UserCount:0
+2023-12-22 00:10:05[info] : Client[66](106.84.187.230:25199) quit, UserCount:0
+2023-12-22 00:10:05[info] : Client[66](106.84.187.230:49263) in, userCount:1
+2023-12-22 00:10:05[info] : Client[66] in!
+2023-12-22 00:10:05[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-22 00:10:05[debug]: /images/avatar.jpg
+2023-12-22 00:10:05[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-22 00:10:05[debug]: file size: 10327, 2 to 10459
+2023-12-22 00:10:05[info] : Client[66] quit!
+2023-12-22 00:10:05[info] : Client[66](106.84.187.230:49263) quit, UserCount:0
+2023-12-22 00:10:08[info] : Client[66](106.84.187.230:25455) in, userCount:1
+2023-12-22 00:10:08[info] : Client[66] in!
+2023-12-22 00:10:08[info] : Client[67](106.84.187.230:49519) in, userCount:2
+2023-12-22 00:10:08[info] : Client[67] in!
+2023-12-22 00:10:08[debug]: [GET],[/login.html],[HTTP/1.1]
+2023-12-22 00:10:08[debug]: /login.html
+2023-12-22 00:10:08[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//login.html
+2023-12-22 00:10:08[debug]: file size: 944, 2 to 1126
+2023-12-22 00:10:09[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /css/bootstrap.min.css
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-22 00:10:09[debug]: file size: 19747, 2 to 19878
+2023-12-22 00:10:09[info] : Client[66] quit!
+2023-12-22 00:10:09[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /css/animate.css
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/animate.css
+2023-12-22 00:10:09[debug]: file size: 4167, 2 to 4297
+2023-12-22 00:10:09[info] : Client[67] quit!
+2023-12-22 00:10:09[info] : Client[66](106.84.187.230:25711) in, userCount:1
+2023-12-22 00:10:09[info] : Client[66] in!
+2023-12-22 00:10:09[info] : Client[67](106.84.187.230:49775) in, userCount:2
+2023-12-22 00:10:09[info] : Client[67] in!
+2023-12-22 00:10:09[info] : Client[68](106.84.187.230:50031) in, userCount:3
+2023-12-22 00:10:09[info] : Client[68] in!
+2023-12-22 00:10:09[info] : Client[67](106.84.187.230:49775) quit, UserCount:3
+2023-12-22 00:10:09[info] : Client[69](106.84.187.230:25967) in, userCount:4
+2023-12-22 00:10:09[info] : Client[69] in!
+2023-12-22 00:10:09[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /css/font-awesome.min.css
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-22 00:10:09[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /css/magnific-popup.css
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-22 00:10:09[debug]: file size: 1816, 2 to 1946
+2023-12-22 00:10:09[info] : Client[66] quit!
+2023-12-22 00:10:09[debug]: file size: 6212, 2 to 6342
+2023-12-22 00:10:09[info] : Client[67] quit!
+2023-12-22 00:10:09[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /css/style.css
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/style.css
+2023-12-22 00:10:09[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /js/jquery.js
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.js
+2023-12-22 00:10:09[debug]: file size: 2240, 2 to 2370
+2023-12-22 00:10:09[debug]: file size: 29920, 2 to 30058
+2023-12-22 00:10:09[info] : Client[69] quit!
+2023-12-22 00:10:09[info] : Client[68] quit!
+2023-12-22 00:10:09[info] : Client[66](106.84.187.230:25711) quit, UserCount:0
+2023-12-22 00:10:09[info] : Client[66](106.84.187.230:26223) in, userCount:1
+2023-12-22 00:10:09[info] : Client[66] in!
+2023-12-22 00:10:09[info] : Client[67](106.84.187.230:50287) in, userCount:2
+2023-12-22 00:10:09[info] : Client[67] in!
+2023-12-22 00:10:09[info] : Client[66](106.84.187.230:26223) quit, UserCount:2
+2023-12-22 00:10:09[info] : Client[67](106.84.187.230:50287) quit, UserCount:2
+2023-12-22 00:10:09[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /js/smoothscroll.js
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-22 00:10:09[debug]: file size: 2110, 2 to 2247
+2023-12-22 00:10:09[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /js/bootstrap.min.js
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-22 00:10:09[debug]: file size: 9764, 2 to 9901
+2023-12-22 00:10:09[info] : Client[67] quit!
+2023-12-22 00:10:09[info] : Client[66] quit!
+2023-12-22 00:10:09[info] : Client[69](106.84.187.230:25967) quit, UserCount:0
+2023-12-22 00:10:09[info] : Client[66](106.84.187.230:26479) in, userCount:1
+2023-12-22 00:10:09[info] : Client[66] in!
+2023-12-22 00:10:09[info] : Client[67](106.84.187.230:50543) in, userCount:2
+2023-12-22 00:10:09[info] : Client[67] in!
+2023-12-22 00:10:09[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /js/jquery.magnific-popup.min.js
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-22 00:10:09[debug]: file size: 7585, 2 to 7722
+2023-12-22 00:10:09[info] : Client[66] quit!
+2023-12-22 00:10:09[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /js/magnific-popup-options.js
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-22 00:10:09[debug]: file size: 520, 2 to 656
+2023-12-22 00:10:09[info] : Client[67] quit!
+2023-12-22 00:10:09[info] : Client[67](106.84.187.230:50543) quit, UserCount:0
+2023-12-22 00:10:09[info] : Client[66](106.84.187.230:26479) quit, UserCount:0
+2023-12-22 00:10:09[info] : Client[66](106.84.187.230:26735) in, userCount:1
+2023-12-22 00:10:09[info] : Client[66] in!
+2023-12-22 00:10:09[info] : Client[68](106.84.187.230:50031) quit, UserCount:1
+2023-12-22 00:10:09[info] : Client[67](106.84.187.230:50799) in, userCount:2
+2023-12-22 00:10:09[info] : Client[67] in!
+2023-12-22 00:10:09[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /js/wow.min.js
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-22 00:10:09[debug]: file size: 2431, 2 to 2568
+2023-12-22 00:10:09[info] : Client[66] quit!
+2023-12-22 00:10:09[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-22 00:10:09[debug]: /js/custom.js
+2023-12-22 00:10:09[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/custom.js
+2023-12-22 00:10:09[debug]: file size: 464, 2 to 600
+2023-12-22 00:10:09[info] : Client[67] quit!
+2023-12-22 00:10:09[info] : Client[66](106.84.187.230:26735) quit, UserCount:0
+2023-12-22 00:10:09[info] : Client[66](106.84.187.230:26735) quit, UserCount:0
+2023-12-22 00:10:09[info] : Client[67](106.84.187.230:50799) quit, UserCount:0
+2023-12-22 00:10:09[info] : Client[67](106.84.187.230:50799) quit, UserCount:0
+2023-12-22 00:10:15[info] : Client[66](106.84.187.230:51055) in, userCount:1
+2023-12-22 00:10:15[info] : Client[66] in!
+2023-12-22 00:10:15[info] : Client[67](106.84.187.230:26991) in, userCount:2
+2023-12-22 00:10:15[info] : Client[67] in!
+2023-12-22 00:10:15[debug]: [GET],[/error.html],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /error.html
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//error.html
+2023-12-22 00:10:15[debug]: file size: 907, 2 to 1089
+2023-12-22 00:10:15[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /css/bootstrap.min.css
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-22 00:10:15[debug]: file size: 19747, 2 to 19878
+2023-12-22 00:10:15[info] : Client[66] quit!
+2023-12-22 00:10:15[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /css/animate.css
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/animate.css
+2023-12-22 00:10:15[debug]: file size: 4167, 2 to 4297
+2023-12-22 00:10:15[info] : Client[67] quit!
+2023-12-22 00:10:15[info] : Client[66](106.84.187.230:51311) in, userCount:1
+2023-12-22 00:10:15[info] : Client[66] in!
+2023-12-22 00:10:15[info] : Client[67](106.84.187.230:51567) in, userCount:2
+2023-12-22 00:10:15[info] : Client[67] in!
+2023-12-22 00:10:15[info] : Client[68](106.84.187.230:27247) in, userCount:3
+2023-12-22 00:10:15[info] : Client[68] in!
+2023-12-22 00:10:15[info] : Client[69](106.84.187.230:27503) in, userCount:4
+2023-12-22 00:10:15[info] : Client[69] in!
+2023-12-22 00:10:15[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /css/style.css
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/style.css
+2023-12-22 00:10:15[debug]: file size: 2240, 2 to 2370
+2023-12-22 00:10:15[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /css/magnific-popup.css
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-22 00:10:15[debug]: file size: 1816, 2 to 1946
+2023-12-22 00:10:15[info] : Client[67] quit!
+2023-12-22 00:10:15[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /css/font-awesome.min.css
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-22 00:10:15[debug]: file size: 6212, 2 to 6342
+2023-12-22 00:10:15[info] : Client[66] quit!
+2023-12-22 00:10:15[info] : Client[68] quit!
+2023-12-22 00:10:15[info] : Client[67](106.84.187.230:51567) quit, UserCount:3
+2023-12-22 00:10:15[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /js/jquery.js
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.js
+2023-12-22 00:10:15[debug]: file size: 29920, 2 to 30058
+2023-12-22 00:10:15[info] : Client[69] quit!
+2023-12-22 00:10:15[info] : Client[66](106.84.187.230:51311) quit, UserCount:0
+2023-12-22 00:10:15[info] : Client[66](106.84.187.230:51823) in, userCount:1
+2023-12-22 00:10:15[info] : Client[66] in!
+2023-12-22 00:10:15[info] : Client[67](106.84.187.230:51567) quit, UserCount:1
+2023-12-22 00:10:15[info] : Client[67](106.84.187.230:27759) in, userCount:2
+2023-12-22 00:10:15[info] : Client[67] in!
+2023-12-22 00:10:15[info] : Client[68](106.84.187.230:27247) quit, UserCount:2
+2023-12-22 00:10:15[info] : Client[66](106.84.187.230:51823) quit, UserCount:2
+2023-12-22 00:10:15[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /js/bootstrap.min.js
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-22 00:10:15[debug]: file size: 9764, 2 to 9901
+2023-12-22 00:10:15[info] : Client[66] quit!
+2023-12-22 00:10:15[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /js/smoothscroll.js
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-22 00:10:15[debug]: file size: 2110, 2 to 2247
+2023-12-22 00:10:15[info] : Client[67] quit!
+2023-12-22 00:10:15[info] : Client[66](106.84.187.230:52079) in, userCount:1
+2023-12-22 00:10:15[info] : Client[66] in!
+2023-12-22 00:10:15[info] : Client[67](106.84.187.230:28015) in, userCount:2
+2023-12-22 00:10:15[info] : Client[67] in!
+2023-12-22 00:10:15[info] : Client[68](106.84.187.230:28271) in, userCount:3
+2023-12-22 00:10:15[info] : Client[68] in!
+2023-12-22 00:10:15[info] : Client[69](106.84.187.230:52335) in, userCount:4
+2023-12-22 00:10:15[info] : Client[69] in!
+2023-12-22 00:10:15[info] : Client[69](106.84.187.230:52335) quit, UserCount:4
+2023-12-22 00:10:15[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /js/jquery.magnific-popup.min.js
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-22 00:10:15[debug]: file size: 7585, 2 to 7722
+2023-12-22 00:10:15[info] : Client[66] quit!
+2023-12-22 00:10:15[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /js/magnific-popup-options.js
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-22 00:10:15[debug]: file size: 520, 2 to 656
+2023-12-22 00:10:15[info] : Client[67] quit!
+2023-12-22 00:10:15[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /js/wow.min.js
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-22 00:10:15[debug]: file size: 2431, 2 to 2568
+2023-12-22 00:10:15[info] : Client[68] quit!
+2023-12-22 00:10:15[info] : Client[66](106.84.187.230:52079) quit, UserCount:1
+2023-12-22 00:10:15[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-22 00:10:15[debug]: /js/custom.js
+2023-12-22 00:10:15[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/custom.js
+2023-12-22 00:10:15[debug]: file size: 464, 2 to 600
+2023-12-22 00:10:15[info] : Client[69] quit!
+2023-12-22 00:10:15[info] : Client[67](106.84.187.230:28015) quit, UserCount:0
+2023-12-22 00:10:16[info] : Client[66](106.84.187.230:52079) quit, UserCount:0
+2023-12-22 00:10:16[info] : Client[68](106.84.187.230:28271) quit, UserCount:0
+2023-12-22 00:10:16[info] : Client[67](106.84.187.230:28015) quit, UserCount:0
+2023-12-22 00:10:16[info] : Client[69](106.84.187.230:52335) quit, UserCount:0
+2023-12-22 00:10:16[info] : Client[66](106.84.187.230:28527) in, userCount:1
+2023-12-22 00:10:16[info] : Client[66] in!
+2023-12-22 00:10:16[debug]: [GET],[/images/avatar.jpg],[HTTP/1.1]
+2023-12-22 00:10:16[debug]: /images/avatar.jpg
+2023-12-22 00:10:16[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//images/avatar.jpg
+2023-12-22 00:10:16[debug]: file size: 10327, 2 to 10459
+2023-12-22 00:10:16[info] : Client[66] quit!
+2023-12-22 00:10:16[info] : Client[66](106.84.187.230:28527) quit, UserCount:0
+2023-12-22 00:10:18[info] : Client[66](106.84.187.230:28783) in, userCount:1
+2023-12-22 00:10:18[info] : Client[66] in!
+2023-12-22 00:10:18[info] : Client[67](106.84.187.230:52591) in, userCount:2
+2023-12-22 00:10:18[info] : Client[67] in!
+2023-12-22 00:10:18[debug]: [GET],[/login.html],[HTTP/1.1]
+2023-12-22 00:10:18[debug]: /login.html
+2023-12-22 00:10:18[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//login.html
+2023-12-22 00:10:18[debug]: file size: 944, 2 to 1126
+2023-12-22 00:10:18[debug]: [GET],[/css/animate.css],[HTTP/1.1]
+2023-12-22 00:10:18[debug]: /css/animate.css
+2023-12-22 00:10:18[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/animate.css
+2023-12-22 00:10:18[debug]: file size: 4167, 2 to 4297
+2023-12-22 00:10:18[info] : Client[67] quit!
+2023-12-22 00:10:18[debug]: [GET],[/css/bootstrap.min.css],[HTTP/1.1]
+2023-12-22 00:10:18[debug]: /css/bootstrap.min.css
+2023-12-22 00:10:18[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/bootstrap.min.css
+2023-12-22 00:10:18[debug]: file size: 19747, 2 to 19878
+2023-12-22 00:10:18[info] : Client[66] quit!
+2023-12-22 00:10:19[info] : Client[66](106.84.187.230:53359) in, userCount:1
+2023-12-22 00:10:19[info] : Client[66] in!
+2023-12-22 00:10:19[info] : Client[67](106.84.187.230:52591) quit, UserCount:1
+2023-12-22 00:10:19[info] : Client[67](106.84.187.230:53103) in, userCount:2
+2023-12-22 00:10:19[info] : Client[67] in!
+2023-12-22 00:10:19[info] : Client[68](106.84.187.230:29039) in, userCount:3
+2023-12-22 00:10:19[info] : Client[68] in!
+2023-12-22 00:10:19[info] : Client[69](106.84.187.230:52847) in, userCount:4
+2023-12-22 00:10:19[info] : Client[69] in!
+2023-12-22 00:10:19[debug]: [GET],[/js/jquery.js],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /js/jquery.js
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.js
+2023-12-22 00:10:19[debug]: [GET],[/css/magnific-popup.css],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /css/magnific-popup.css
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/magnific-popup.css
+2023-12-22 00:10:19[debug]: file size: 1816, 2 to 1946
+2023-12-22 00:10:19[info] : Client[69] quit!
+2023-12-22 00:10:19[debug]: file size: 29920, 2 to 30058
+2023-12-22 00:10:19[info] : Client[66] quit!
+2023-12-22 00:10:19[debug]: [GET],[/css/font-awesome.min.css],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /css/font-awesome.min.css
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/font-awesome.min.css
+2023-12-22 00:10:19[debug]: file size: 6212, 2 to 6342
+2023-12-22 00:10:19[info] : Client[68] quit!
+2023-12-22 00:10:19[debug]: [GET],[/css/style.css],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /css/style.css
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//css/style.css
+2023-12-22 00:10:19[debug]: file size: 2240, 2 to 2370
+2023-12-22 00:10:19[info] : Client[67] quit!
+2023-12-22 00:10:19[info] : Client[66](106.84.187.230:53359) quit, UserCount:0
+2023-12-22 00:10:19[info] : Client[66](106.84.187.230:29295) in, userCount:1
+2023-12-22 00:10:19[info] : Client[66] in!
+2023-12-22 00:10:19[info] : Client[67](106.84.187.230:53615) in, userCount:2
+2023-12-22 00:10:19[info] : Client[67] in!
+2023-12-22 00:10:19[info] : Client[69](106.84.187.230:52847) quit, UserCount:2
+2023-12-22 00:10:19[debug]: [GET],[/js/smoothscroll.js],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /js/smoothscroll.js
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/smoothscroll.js
+2023-12-22 00:10:19[debug]: file size: 2110, 2 to 2247
+2023-12-22 00:10:19[debug]: [GET],[/js/bootstrap.min.js],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /js/bootstrap.min.js
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/bootstrap.min.js
+2023-12-22 00:10:19[debug]: file size: 9764, 2 to 9901
+2023-12-22 00:10:19[info] : Client[67] quit!
+2023-12-22 00:10:19[info] : Client[66] quit!
+2023-12-22 00:10:19[info] : Client[67](106.84.187.230:53615) quit, UserCount:0
+2023-12-22 00:10:19[info] : Client[68](106.84.187.230:29039) quit, UserCount:0
+2023-12-22 00:10:19[info] : Client[66](106.84.187.230:53871) in, userCount:1
+2023-12-22 00:10:19[info] : Client[66] in!
+2023-12-22 00:10:19[info] : Client[67](106.84.187.230:29551) in, userCount:2
+2023-12-22 00:10:19[info] : Client[67] in!
+2023-12-22 00:10:19[info] : Client[66](106.84.187.230:53871) quit, UserCount:2
+2023-12-22 00:10:19[info] : Client[67](106.84.187.230:29551) quit, UserCount:2
+2023-12-22 00:10:19[info] : Client[68](106.84.187.230:54127) in, userCount:3
+2023-12-22 00:10:19[info] : Client[68] in!
+2023-12-22 00:10:19[info] : Client[66](106.84.187.230:53871) quit, UserCount:3
+2023-12-22 00:10:19[info] : Client[69](106.84.187.230:29807) in, userCount:4
+2023-12-22 00:10:19[info] : Client[69] in!
+2023-12-22 00:10:19[debug]: [GET],[/js/jquery.magnific-popup.min.js],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /js/jquery.magnific-popup.min.js
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/jquery.magnific-popup.min.js
+2023-12-22 00:10:19[debug]: file size: 7585, 2 to 7722
+2023-12-22 00:10:19[debug]: [GET],[/js/magnific-popup-options.js],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /js/magnific-popup-options.js
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/magnific-popup-options.js
+2023-12-22 00:10:19[debug]: file size: 520, 2 to 656
+2023-12-22 00:10:19[info] : Client[67] quit!
+2023-12-22 00:10:19[info] : Client[66] quit!
+2023-12-22 00:10:19[debug]: [GET],[/js/custom.js],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /js/custom.js
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/custom.js
+2023-12-22 00:10:19[debug]: file size: 464, 2 to 600
+2023-12-22 00:10:19[info] : Client[68] quit!
+2023-12-22 00:10:19[debug]: [GET],[/js/wow.min.js],[HTTP/1.1]
+2023-12-22 00:10:19[debug]: /js/wow.min.js
+2023-12-22 00:10:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//js/wow.min.js
+2023-12-22 00:10:19[debug]: file size: 2431, 2 to 2568
+2023-12-22 00:10:19[info] : Client[69] quit!
+2023-12-22 00:10:19[info] : Client[66](106.84.187.230:53871) quit, UserCount:0
+2023-12-22 00:10:19[info] : Client[67](106.84.187.230:29551) quit, UserCount:0
+2023-12-22 00:10:19[info] : Client[68](106.84.187.230:54127) quit, UserCount:0
+2023-12-22 00:10:19[info] : Client[69](106.84.187.230:29807) quit, UserCount:0
+2023-12-22 00:11:04[info] : Client[70] quit!
+2023-12-22 00:11:19[info] : Client[67] quit!
+2023-12-22 00:11:19[info] : Client[66] quit!
+2023-12-22 00:11:19[info] : Client[68] quit!
+2023-12-22 00:11:19[info] : Client[69] quit!
+2023-12-22 12:08:19[info] : Client[66](129.211.167.166:65204) in, userCount:1
+2023-12-22 12:08:19[info] : Client[66] in!
+2023-12-22 12:08:19[debug]: [GET],[/index.html],[HTTP/1.1]
+2023-12-22 12:08:19[debug]: /index.html
+2023-12-22 12:08:19[debug]: file path /home/ubuntu/PTH/Web_Blog/resources//index.html
+2023-12-22 12:08:19[debug]: file size: 1027, 2 to 1210
+2023-12-22 12:08:20[info] : Client[66] quit!
+2023-12-22 12:08:20[info] : Client[66](129.211.167.166:65204) quit, UserCount:0
+2023-12-22 12:09:19[info] : Client[66] quit!

@@ -317,6 +317,11 @@ bool WebServer::InitSocket_(){
         setsockopt(listenFd_, SOL_SOCKET, SO_LINGER, &optLinger, sizeof(optLinger));
     }
 
+    //非阻塞
+    int flag = fcntl(listenFd_, F_GETFL, 0);
+    flag |= O_NONBLOCK;
+    fcntl(listenFd_, F_SETFL, flag);
+
     // 2.bind
     int ret = bind(listenFd_, reinterpret_cast<const sockaddr*>(&addr), addr_len);
     if(ret < 0 ){

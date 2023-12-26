@@ -116,6 +116,8 @@ ssize_t HttpConn::write(int * saveErrno){
         }
 
         // std::cout << (char*)iov_[1].iov_base << std::endl;
+        // std::cout << iov_[0].iov_len << std::endl;
+        // std::cout << iov_[1].iov_len << std::endl;
 
         if(iov_[0].iov_len + iov_[1].iov_len == 0){
             break;
@@ -123,12 +125,12 @@ ssize_t HttpConn::write(int * saveErrno){
         else if(static_cast<size_t>(len) > iov_[0].iov_len){ //说明iov[1]中有数据 传了文件
             // 因为有可能writev没有将iov_的数据读取完，所以需要更新iov
             // 为了能进行指针的加减运算， 所以将void*类型的指针转换成uint8_t
-            iov_[1].iov_base = (uint8_t*)iov_[1].iov_base + (len - iov_[0].iov_len);
-            iov_[1].iov_len = iov_[1].iov_len - (len - iov_[0].iov_len);
+            iov_[0].iov_base = (uint8_t*)iov_[1].iov_base + (len - iov_[0].iov_len);
+            iov_[0].iov_len = iov_[1].iov_len - (len - iov_[0].iov_len);
 
-            if(iov_[0].iov_len){
+            if(iov_[1].iov_len){
                 writeBuff_.RetrieveAll();
-                iov_[0].iov_len = 0;
+                iov_[1].iov_len = 0;
             }
         }
         else{ //iov_[0]都没读完
@@ -139,4 +141,3 @@ ssize_t HttpConn::write(int * saveErrno){
     }while(isET || ToWriteBytes() > 10240);
     return len;
 }
-

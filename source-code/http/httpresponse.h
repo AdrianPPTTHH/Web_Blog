@@ -12,6 +12,8 @@
 #include <sys/mman.h>
 #include <cmark.h>
 #include <iconv.h>
+#include <zlib.h>
+
 
 class HttpResponse{
 public:
@@ -44,6 +46,7 @@ private:
     void ErrorHtml_();
     std::string GetFileType_();
     std::string convert_to_utf8(const char* source, const char* source_encoding);
+    std::string compressData(const char* data, size_t size);    
 
     int code_;
     bool isKeepAlive_;
@@ -65,6 +68,7 @@ private:
     Cookie cookie_;
 
     size_t file_len;
+    std::string zip_content;
 };
 
 #endif
