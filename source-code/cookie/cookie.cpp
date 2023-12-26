@@ -49,7 +49,22 @@ void Cookie::SetCookie(){
     }
 
     ss << "; ";
+
+    struct timeval now = {0, 0};
+    gettimeofday(&now, NULL);
+    time_t tSec = now.tv_sec + 3600;
+    struct tm *sysTime = localtime(&tSec);
+
+    // 调整时区
+    tSec -= sysTime->tm_gmtoff;
+    sysTime = gmtime(&tSec);
+
+
+    char buff[80];
+    strftime(buff, sizeof(buff), "expires=%a, %d %b %Y %H:%M:%S GMT; Max-Age=3600", sysTime);
     
+    ss << buff;
+
     //cookie值设置
     value_ = ss.str();
 
