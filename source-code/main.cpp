@@ -7,14 +7,14 @@ int main(){
 
     WebServer webserver(
         8876,        //port
-        3,           //trigMode
+        1,           //trigMode
         60000,       //timeoutMS
         true,        //OptLinger
         "localhost", //sqlHost
         3306,        //sqlPort
         "web_admin", //sqlUsername
-        "asdQWE123456", //sqlPassword
-        "webserver", //dbname
+        "", //sqlPassword
+        "", //dbname
         30,          //sqlconnPoolNum
         "127.0.0.1", //redisHost
         6379,        //redisPort
